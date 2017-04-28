@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Mockup</title>
+        <script src="https://d3js.org/d3.v4.min.js"></script>
+        <style type="text/css">
+          svg {
+            border: 1px solid black;
+          }
+          g {
+            pointer-events: none;
+          }
+         .map-object {
+           fill: #fff;
+           stroke: none;
+         }
+         .wall {
+           fill: #444;
+         }
+         .furnishing {
+           display: none;
+         }
+         /* http://colorbrewer2.org/#type=sequential&scheme=YlOrRd&n=5 */
+         .room.cat-0 {
+           fill: #ffffb2;
+         }
+         .room.cat-1 {
+           fill: #fecc5c;
+         }
+         .room.cat-2 {
+           fill: #fd8d3c;
+         }
+         .room.cat-3 {
+           fill: #f03b20;
+         }
+         .room.cat-4 {
+           fill: #bd0026;
+         }
+        </style>
+    </head>
+    <body>
+
+        <input type="button" id="drawOccupancy" value="Occupancy"/>
+        <input type="button" id="drawUtilization" value="Utilization"/>
+        <input type="button" id="drawUtilizationWO" value="Utilization While Occupied"/>
+
+        <script type="text/javascript">
+         
+         // Load in GeoJSON data
+         // http://stackoverflow.com/a/14691788/1431778
+         d3.json("db.json", function(json) {
+
+             //Width and height
+             var w = 1000;
+             var h = 600;
+
+             //Define map projection
+             var projection = d3.geoMercator()
+                                .translate([0, 0])
+                                .scale(1);
+
+             //Define path generator
+             var path = d3.geoPath()
+                          .projection(projection);
+
+             var zoom = d3.zoom()
+                          .scaleExtent([1, 100])
+                          .on("zoom", zoomed);
+             
+             //Create SVG element
+             var svg = d3.select("body")
+                         .append("svg")
+                         .attr("width", w)
+                         .attr("height", h);
+
+             svg.append("rect")
+                .attr("class", "overlay")
+                .attr("width", w)
+                .attr("height", h)
+                .style("fill", "white")
+                .call(zoom);
+
+             var g = svg.append("g").attr("transform", "translate(0,0)scale(1)");
+
+             // g.call(zoom);
+             
+             // Calculate bounding box transforms for entire collection
+             var b = path.bounds(json.map),
+                 s = 0.95 / Math.max((b[1][0] - b[0][0]) / w, (b[1][1] - b[0][1]) / h),
+                 t = [(w - s * (b[1][0] + b[0][0])) / 2, (h - s * (b[1][1] + b[0][1])) / 2];
+
+             // Update the projection    
+             projection
+                 .scale(s)
+                 .translate(t);
+
+             var spaces = {};
+
+             for(var i=0; i<json.spaces.length; i++) {
+                 spaces[json.spaces[i].space_id] = json.spaces[i];
+             }
+
+             console.log(json.map.features);
+
+             //Bind data and create one path per GeoJSON feature
+             var room_paths = g.selectAll("path")
+                               .data(json.map.features)
+                               .enter()
+                               .append("path")
+                               .attr("d", path)
+                               .attr("class", function (d) {
+                                   var classes = ['map-object'];
+                                   Object.keys(d.properties).forEach(function (key) {
+                                       let value = d.properties[key];
+                                       classes.push(key);
+                                       classes.push(value);
+                                       classes.push("cat-" + Math.floor(Math.random() * 5));
+                                   });
+                                   return classes.join(" ");
+                               });
+
+             function zoomed() {
+                 // g.attr("transform", "translate(" + d3.event.translate + ")scale(" + d3.event.scale + ")");
+                 g.attr("transform", d3.event.transform);
+             }
+
+         });      
+
+        </script>
+    </body>
+</html>

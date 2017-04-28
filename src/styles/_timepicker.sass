@@ -1,0 +1,104 @@
+@import vars
+
+.modal-timepicker
+  .mui-row, .mui-col-md-6, .mui-col-xs-12, .mui-select
+    padding: 0
+    margin: 0
+  .mui-col-xs-3
+    padding: 0
+    margin: 0 5px 0 0
+    width: 54px
+    height: 28px
+    border-radius: 3px
+    border: solid 1px $white
+
+  legend
+    margin-bottom: 10px
+
+  .mui-select__menu
+    height: auto !important
+    max-height: 167px
+    border: solid 1px $white
+    width: 100%
+    left: -1px
+    top: 26px !important
+    position: absolute
+    z-index: 9999
+    min-width: 100%
+    overflow-y: auto
+    padding: 0
+    background-color: #FFF
+    font-size: 16px
+    &>div
+      border-bottom: solid 1px $white
+      padding: 5px
+      height: 17px
+      text-align: center
+      &:last-child
+        border: 0
+
+  .mui-select
+    &>select
+      border: 0
+      padding: 0 5px 0 5px
+      margin-right: 10px
+      font-size: 16px
+      background-position: 95% 50%
+
+  .mui--text-center
+    padding: 0
+    label
+      font-size: 20px
+      font-weight: 900
+      color: #979797
+
+  .input-range
+    margin-top: 70px
+
+  .input-range__track--background
+    .input-range__track--active
+      top: -3px
+    .input-range__slider-container
+      top: 9px
+
+  .input-range__track--active
+    background-color: $cerulean
+    height: 12px
+  .input-range__slider
+    background-color: $white-default
+    border-color: $cerulean
+    margin-top: -15px
+    width: 16px
+    height: 16px
+
+  .input-range__label
+    display: none
+  .input-range__label--value
+    display: initial
+    top: 11px
+    right: 0
+    left: -12px
+    @extend .HelveticaNeue
+    font-size: 12px
+    font-weight: 500
+    text-align: center
+    color: #333333
+
+  p
+    margin: 20px auto 10px
+    width: 150px
+    height: 60px
+    font-size: 12px
+    @extend .HelveticaNeue
+    font-weight: 500
+    text-align: center
+    color: #333333
+
+  &.timepicker-error
+    .input-range__track--active,
+    .input-range__slider-container
+      opacity: 0
+
+
+
+

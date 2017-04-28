@@ -1,0 +1,1 @@
+export SpaceAverageModule from './SpaceAverageModule';

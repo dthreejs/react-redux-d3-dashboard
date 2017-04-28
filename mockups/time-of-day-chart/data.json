@@ -1,0 +1,8642 @@
+[
+  {
+    "name": "all",
+    "interval_start": "2016-10-24 00:00:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-24 00:30:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-24 01:00:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-24 01:30:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-24 02:00:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-24 02:30:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-24 03:00:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-24 03:30:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-24 04:00:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-24 04:30:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-24 05:00:00",
+    "min": 0,
+    "min_seconds": 505,
+    "mean": 1.0727777777777778,
+    "max": 2,
+    "max_seconds": 636
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-24 05:30:00",
+    "min": 2,
+    "min_seconds": 1308,
+    "mean": 2.2733333333333334,
+    "max": 3,
+    "max_seconds": 492
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-24 06:00:00",
+    "min": 2,
+    "min_seconds": 442,
+    "mean": 3.372777777777778,
+    "max": 5,
+    "max_seconds": 405
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-24 06:30:00",
+    "min": 2,
+    "min_seconds": 236,
+    "mean": 3.727777777777778,
+    "max": 5,
+    "max_seconds": 612
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-24 07:00:00",
+    "min": 2,
+    "min_seconds": 388,
+    "mean": 4.373888888888889,
+    "max": 7,
+    "max_seconds": 115
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-24 07:30:00",
+    "min": 6,
+    "min_seconds": 374,
+    "mean": 10.309444444444445,
+    "max": 17,
+    "max_seconds": 60
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-24 08:00:00",
+    "min": 17,
+    "min_seconds": 59,
+    "mean": 26.38722222222222,
+    "max": 35,
+    "max_seconds": 78
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-24 08:30:00",
+    "min": 31,
+    "min_seconds": 5,
+    "mean": 47.12777777777778,
+    "max": 63,
+    "max_seconds": 2
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-24 09:00:00",
+    "min": 58,
+    "min_seconds": 19,
+    "mean": 72.32444444444444,
+    "max": 84,
+    "max_seconds": 19
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-24 09:30:00",
+    "min": 71,
+    "min_seconds": 13,
+    "mean": 81.59222222222222,
+    "max": 100,
+    "max_seconds": 11
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-24 10:00:00",
+    "min": 87,
+    "min_seconds": 15,
+    "mean": 93.46388888888889,
+    "max": 105,
+    "max_seconds": 7
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-24 10:30:00",
+    "min": 89,
+    "min_seconds": 47,
+    "mean": 97.49777777777778,
+    "max": 112,
+    "max_seconds": 17
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-24 11:00:00",
+    "min": 92,
+    "min_seconds": 14,
+    "mean": 100.31888888888889,
+    "max": 114,
+    "max_seconds": 37
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-24 11:30:00",
+    "min": 83,
+    "min_seconds": 25,
+    "mean": 92.89555555555556,
+    "max": 104,
+    "max_seconds": 10
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-24 12:00:00",
+    "min": 61,
+    "min_seconds": 6,
+    "mean": 71.90944444444445,
+    "max": 90,
+    "max_seconds": 22
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-24 12:30:00",
+    "min": 63,
+    "min_seconds": 28,
+    "mean": 75.93388888888889,
+    "max": 86,
+    "max_seconds": 12
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-24 13:00:00",
+    "min": 71,
+    "min_seconds": 7,
+    "mean": 84.17944444444444,
+    "max": 96,
+    "max_seconds": 28
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-24 13:30:00",
+    "min": 77,
+    "min_seconds": 8,
+    "mean": 85.55,
+    "max": 95,
+    "max_seconds": 16
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-24 14:00:00",
+    "min": 74,
+    "min_seconds": 12,
+    "mean": 83.795,
+    "max": 92,
+    "max_seconds": 44
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-24 14:30:00",
+    "min": 73,
+    "min_seconds": 8,
+    "mean": 84.09722222222223,
+    "max": 97,
+    "max_seconds": 2
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-24 15:00:00",
+    "min": 73,
+    "min_seconds": 11,
+    "mean": 83.53722222222223,
+    "max": 97,
+    "max_seconds": 38
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-24 15:30:00",
+    "min": 75,
+    "min_seconds": 17,
+    "mean": 85.38333333333334,
+    "max": 95,
+    "max_seconds": 6
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-24 16:00:00",
+    "min": 72,
+    "min_seconds": 27,
+    "mean": 81.21,
+    "max": 92,
+    "max_seconds": 41
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-24 16:30:00",
+    "min": 56,
+    "min_seconds": 1,
+    "mean": 68.79555555555555,
+    "max": 84,
+    "max_seconds": 16
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-24 17:00:00",
+    "min": 40,
+    "min_seconds": 14,
+    "mean": 47.71277777777778,
+    "max": 57,
+    "max_seconds": 3
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-24 17:30:00",
+    "min": 28,
+    "min_seconds": 12,
+    "mean": 34.06166666666667,
+    "max": 41,
+    "max_seconds": 13
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-24 18:00:00",
+    "min": 12,
+    "min_seconds": 3,
+    "mean": 20.58222222222222,
+    "max": 32,
+    "max_seconds": 70
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-24 18:30:00",
+    "min": 8,
+    "min_seconds": 47,
+    "mean": 11.974444444444444,
+    "max": 16,
+    "max_seconds": 4
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-24 19:00:00",
+    "min": 7,
+    "min_seconds": 98,
+    "mean": 10.557222222222222,
+    "max": 16,
+    "max_seconds": 241
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-24 19:30:00",
+    "min": 7,
+    "min_seconds": 14,
+    "mean": 12.047222222222222,
+    "max": 16,
+    "max_seconds": 501
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-24 20:00:00",
+    "min": 2,
+    "min_seconds": 1292,
+    "mean": 3.006666666666667,
+    "max": 11,
+    "max_seconds": 53
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-24 20:30:00",
+    "min": 0,
+    "min_seconds": 1292,
+    "mean": 0.6622222222222223,
+    "max": 3,
+    "max_seconds": 268
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-24 21:00:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-24 21:30:00",
+    "min": 0,
+    "min_seconds": 913,
+    "mean": 0.6355555555555555,
+    "max": 3,
+    "max_seconds": 62
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-24 22:00:00",
+    "min": 2,
+    "min_seconds": 609,
+    "mean": 2.6616666666666666,
+    "max": 3,
+    "max_seconds": 1191
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-24 22:30:00",
+    "min": 3,
+    "min_seconds": 1157,
+    "mean": 5.046111111111111,
+    "max": 15,
+    "max_seconds": 17
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-24 23:00:00",
+    "min": 3,
+    "min_seconds": 1683,
+    "mean": 3.15,
+    "max": 6,
+    "max_seconds": 46
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-24 23:30:00",
+    "min": 3,
+    "min_seconds": 1148,
+    "mean": 3.5277777777777777,
+    "max": 5,
+    "max_seconds": 298
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-25 00:00:00",
+    "min": 1,
+    "min_seconds": 238,
+    "mean": 2.3472222222222223,
+    "max": 3,
+    "max_seconds": 863
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-25 00:30:00",
+    "min": 0,
+    "min_seconds": 1573,
+    "mean": 0.12611111111111112,
+    "max": 1,
+    "max_seconds": 227
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-25 01:00:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-25 01:30:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-25 02:00:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-25 02:30:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-25 03:00:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-25 03:30:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-25 04:00:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-25 04:30:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-25 05:00:00",
+    "min": 0,
+    "min_seconds": 617,
+    "mean": 0.6572222222222223,
+    "max": 1,
+    "max_seconds": 1183
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-25 05:30:00",
+    "min": 0,
+    "min_seconds": 149,
+    "mean": 0.9683333333333334,
+    "max": 2,
+    "max_seconds": 92
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-25 06:00:00",
+    "min": 1,
+    "min_seconds": 1431,
+    "mean": 1.205,
+    "max": 2,
+    "max_seconds": 369
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-25 06:30:00",
+    "min": 1,
+    "min_seconds": 593,
+    "mean": 2.7016666666666667,
+    "max": 4,
+    "max_seconds": 660
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-25 07:00:00",
+    "min": 3,
+    "min_seconds": 207,
+    "mean": 5.124444444444444,
+    "max": 8,
+    "max_seconds": 230
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-25 07:30:00",
+    "min": 8,
+    "min_seconds": 75,
+    "mean": 13.203888888888889,
+    "max": 19,
+    "max_seconds": 39
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-25 08:00:00",
+    "min": 18,
+    "min_seconds": 38,
+    "mean": 27.801666666666666,
+    "max": 39,
+    "max_seconds": 126
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-25 08:30:00",
+    "min": 33,
+    "min_seconds": 4,
+    "mean": 46.75111111111111,
+    "max": 71,
+    "max_seconds": 4
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-25 09:00:00",
+    "min": 54,
+    "min_seconds": 13,
+    "mean": 60.071666666666665,
+    "max": 70,
+    "max_seconds": 45
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-25 09:30:00",
+    "min": 61,
+    "min_seconds": 2,
+    "mean": 70.43833333333333,
+    "max": 83,
+    "max_seconds": 8
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-25 10:00:00",
+    "min": 66,
+    "min_seconds": 54,
+    "mean": 73.96666666666667,
+    "max": 84,
+    "max_seconds": 6
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-25 10:30:00",
+    "min": 70,
+    "min_seconds": 8,
+    "mean": 77.60833333333333,
+    "max": 85,
+    "max_seconds": 31
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-25 11:00:00",
+    "min": 72,
+    "min_seconds": 2,
+    "mean": 80.39611111111111,
+    "max": 88,
+    "max_seconds": 31
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-25 11:30:00",
+    "min": 73,
+    "min_seconds": 77,
+    "mean": 79.54,
+    "max": 88,
+    "max_seconds": 11
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-25 12:00:00",
+    "min": 64,
+    "min_seconds": 6,
+    "mean": 79.74777777777778,
+    "max": 101,
+    "max_seconds": 22
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-25 12:30:00",
+    "min": 58,
+    "min_seconds": 5,
+    "mean": 65.38833333333334,
+    "max": 73,
+    "max_seconds": 6
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-25 13:00:00",
+    "min": 58,
+    "min_seconds": 5,
+    "mean": 67.03166666666667,
+    "max": 81,
+    "max_seconds": 8
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-25 13:30:00",
+    "min": 71,
+    "min_seconds": 26,
+    "mean": 80.24222222222222,
+    "max": 89,
+    "max_seconds": 1
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-25 14:00:00",
+    "min": 77,
+    "min_seconds": 8,
+    "mean": 83.42444444444445,
+    "max": 91,
+    "max_seconds": 23
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-25 14:30:00",
+    "min": 75,
+    "min_seconds": 53,
+    "mean": 80.40666666666667,
+    "max": 87,
+    "max_seconds": 4
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-25 15:00:00",
+    "min": 78,
+    "min_seconds": 10,
+    "mean": 85.59222222222222,
+    "max": 95,
+    "max_seconds": 12
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-25 15:30:00",
+    "min": 79,
+    "min_seconds": 12,
+    "mean": 85.43888888888888,
+    "max": 94,
+    "max_seconds": 25
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-25 16:00:00",
+    "min": 70,
+    "min_seconds": 9,
+    "mean": 75.54611111111112,
+    "max": 80,
+    "max_seconds": 63
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-25 16:30:00",
+    "min": 62,
+    "min_seconds": 36,
+    "mean": 67.63722222222222,
+    "max": 73,
+    "max_seconds": 75
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-25 17:00:00",
+    "min": 49,
+    "min_seconds": 36,
+    "mean": 61.86388888888889,
+    "max": 71,
+    "max_seconds": 41
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-25 17:30:00",
+    "min": 25,
+    "min_seconds": 40,
+    "mean": 33.519444444444446,
+    "max": 52,
+    "max_seconds": 39
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-25 18:00:00",
+    "min": 15,
+    "min_seconds": 20,
+    "mean": 20.857222222222223,
+    "max": 26,
+    "max_seconds": 5
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-25 18:30:00",
+    "min": 11,
+    "min_seconds": 195,
+    "mean": 14.695,
+    "max": 18,
+    "max_seconds": 49
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-25 19:00:00",
+    "min": 8,
+    "min_seconds": 128,
+    "mean": 12.516666666666667,
+    "max": 15,
+    "max_seconds": 87
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-25 19:30:00",
+    "min": 5,
+    "min_seconds": 267,
+    "mean": 6.243333333333333,
+    "max": 8,
+    "max_seconds": 146
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-25 20:00:00",
+    "min": 4,
+    "min_seconds": 279,
+    "mean": 6.146111111111111,
+    "max": 13,
+    "max_seconds": 3
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-25 20:30:00",
+    "min": 1,
+    "min_seconds": 181,
+    "mean": 2.3761111111111113,
+    "max": 4,
+    "max_seconds": 266
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-25 21:00:00",
+    "min": 1,
+    "min_seconds": 1553,
+    "mean": 1.255,
+    "max": 3,
+    "max_seconds": 212
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-25 21:30:00",
+    "min": 1,
+    "min_seconds": 1491,
+    "mean": 1.2516666666666667,
+    "max": 3,
+    "max_seconds": 144
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-25 22:00:00",
+    "min": 1,
+    "min_seconds": 1634,
+    "mean": 1.0922222222222222,
+    "max": 2,
+    "max_seconds": 166
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-25 22:30:00",
+    "min": 1,
+    "min_seconds": 1800,
+    "mean": 1,
+    "max": 1,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-25 23:00:00",
+    "min": 0,
+    "min_seconds": 1718,
+    "mean": 0.04555555555555556,
+    "max": 1,
+    "max_seconds": 82
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-25 23:30:00",
+    "min": 0,
+    "min_seconds": 287,
+    "mean": 1.626111111111111,
+    "max": 4,
+    "max_seconds": 40
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-26 00:00:00",
+    "min": 2,
+    "min_seconds": 60,
+    "mean": 4.855555555555555,
+    "max": 6,
+    "max_seconds": 34
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-26 00:30:00",
+    "min": 4,
+    "min_seconds": 255,
+    "mean": 5.463333333333333,
+    "max": 7,
+    "max_seconds": 287
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-26 01:00:00",
+    "min": 2,
+    "min_seconds": 463,
+    "mean": 3.742777777777778,
+    "max": 5,
+    "max_seconds": 765
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-26 01:30:00",
+    "min": 1,
+    "min_seconds": 482,
+    "mean": 1.7322222222222223,
+    "max": 2,
+    "max_seconds": 1318
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-26 02:00:00",
+    "min": 0,
+    "min_seconds": 874,
+    "mean": 0.5144444444444445,
+    "max": 1,
+    "max_seconds": 926
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-26 02:30:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-26 03:00:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-26 03:30:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-26 04:00:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-26 04:30:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-26 05:00:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-26 05:30:00",
+    "min": 0,
+    "min_seconds": 1620,
+    "mean": 0.1,
+    "max": 1,
+    "max_seconds": 180
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-26 06:00:00",
+    "min": 0,
+    "min_seconds": 1499,
+    "mean": 0.16722222222222222,
+    "max": 1,
+    "max_seconds": 301
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-26 06:30:00",
+    "min": 0,
+    "min_seconds": 482,
+    "mean": 0.8777777777777778,
+    "max": 2,
+    "max_seconds": 262
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-26 07:00:00",
+    "min": 2,
+    "min_seconds": 400,
+    "mean": 4.471111111111111,
+    "max": 7,
+    "max_seconds": 243
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-26 07:30:00",
+    "min": 6,
+    "min_seconds": 132,
+    "mean": 14.056111111111111,
+    "max": 21,
+    "max_seconds": 35
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-26 08:00:00",
+    "min": 15,
+    "min_seconds": 52,
+    "mean": 27.67388888888889,
+    "max": 40,
+    "max_seconds": 55
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-26 08:30:00",
+    "min": 34,
+    "min_seconds": 10,
+    "mean": 43.88722222222222,
+    "max": 64,
+    "max_seconds": 6
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-26 09:00:00",
+    "min": 49,
+    "min_seconds": 61,
+    "mean": 57.75111111111111,
+    "max": 78,
+    "max_seconds": 2
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-26 09:30:00",
+    "min": 65,
+    "min_seconds": 22,
+    "mean": 73.12833333333333,
+    "max": 83,
+    "max_seconds": 17
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-26 10:00:00",
+    "min": 75,
+    "min_seconds": 34,
+    "mean": 83.77944444444445,
+    "max": 90,
+    "max_seconds": 42
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-26 10:30:00",
+    "min": 80,
+    "min_seconds": 9,
+    "mean": 88.40277777777777,
+    "max": 98,
+    "max_seconds": 54
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-26 11:00:00",
+    "min": 89,
+    "min_seconds": 46,
+    "mean": 96.05055555555556,
+    "max": 106,
+    "max_seconds": 7
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-26 11:30:00",
+    "min": 78,
+    "min_seconds": 11,
+    "mean": 89.05111111111111,
+    "max": 104,
+    "max_seconds": 14
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-26 12:00:00",
+    "min": 66,
+    "min_seconds": 37,
+    "mean": 81.58277777777778,
+    "max": 93,
+    "max_seconds": 13
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-26 12:30:00",
+    "min": 62,
+    "min_seconds": 15,
+    "mean": 72.51444444444445,
+    "max": 78,
+    "max_seconds": 5
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-26 13:00:00",
+    "min": 58,
+    "min_seconds": 9,
+    "mean": 70.82166666666667,
+    "max": 79,
+    "max_seconds": 29
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-26 13:30:00",
+    "min": 62,
+    "min_seconds": 33,
+    "mean": 73.41722222222222,
+    "max": 83,
+    "max_seconds": 21
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-26 14:00:00",
+    "min": 78,
+    "min_seconds": 52,
+    "mean": 85.72,
+    "max": 96,
+    "max_seconds": 30
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-26 14:30:00",
+    "min": 84,
+    "min_seconds": 43,
+    "mean": 92.96111111111111,
+    "max": 101,
+    "max_seconds": 13
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-26 15:00:00",
+    "min": 84,
+    "min_seconds": 4,
+    "mean": 93.79388888888889,
+    "max": 102,
+    "max_seconds": 42
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-26 15:30:00",
+    "min": 83,
+    "min_seconds": 13,
+    "mean": 87.77333333333333,
+    "max": 95,
+    "max_seconds": 4
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-26 16:00:00",
+    "min": 73,
+    "min_seconds": 22,
+    "mean": 84.59833333333333,
+    "max": 95,
+    "max_seconds": 26
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-26 16:30:00",
+    "min": 74,
+    "min_seconds": 26,
+    "mean": 84.69444444444444,
+    "max": 95,
+    "max_seconds": 3
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-26 17:00:00",
+    "min": 57,
+    "min_seconds": 5,
+    "mean": 67.91222222222223,
+    "max": 82,
+    "max_seconds": 21
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-26 17:30:00",
+    "min": 37,
+    "min_seconds": 28,
+    "mean": 49.95777777777778,
+    "max": 68,
+    "max_seconds": 57
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-26 18:00:00",
+    "min": 20,
+    "min_seconds": 41,
+    "mean": 28.716666666666665,
+    "max": 39,
+    "max_seconds": 40
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-26 18:30:00",
+    "min": 13,
+    "min_seconds": 30,
+    "mean": 17.24388888888889,
+    "max": 22,
+    "max_seconds": 23
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-26 19:00:00",
+    "min": 14,
+    "min_seconds": 460,
+    "mean": 15.186666666666667,
+    "max": 17,
+    "max_seconds": 203
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-26 19:30:00",
+    "min": 8,
+    "min_seconds": 248,
+    "mean": 10.612222222222222,
+    "max": 17,
+    "max_seconds": 74
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-26 20:00:00",
+    "min": 4,
+    "min_seconds": 418,
+    "mean": 5.485,
+    "max": 9,
+    "max_seconds": 11
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-26 20:30:00",
+    "min": 1,
+    "min_seconds": 32,
+    "mean": 4.317777777777778,
+    "max": 8,
+    "max_seconds": 14
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-26 21:00:00",
+    "min": 1,
+    "min_seconds": 1141,
+    "mean": 1.7072222222222222,
+    "max": 4,
+    "max_seconds": 151
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-26 21:30:00",
+    "min": 3,
+    "min_seconds": 1175,
+    "mean": 3.3472222222222223,
+    "max": 4,
+    "max_seconds": 625
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-26 22:00:00",
+    "min": 3,
+    "min_seconds": 1577,
+    "mean": 3.1238888888888887,
+    "max": 4,
+    "max_seconds": 223
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-26 22:30:00",
+    "min": 2,
+    "min_seconds": 300,
+    "mean": 3.2655555555555558,
+    "max": 7,
+    "max_seconds": 71
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-26 23:00:00",
+    "min": 1,
+    "min_seconds": 536,
+    "mean": 2.0861111111111112,
+    "max": 6,
+    "max_seconds": 3
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-26 23:30:00",
+    "min": 1,
+    "min_seconds": 1756,
+    "mean": 1.0244444444444445,
+    "max": 2,
+    "max_seconds": 44
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-27 00:00:00",
+    "min": 0,
+    "min_seconds": 1225,
+    "mean": 0.35333333333333333,
+    "max": 2,
+    "max_seconds": 61
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-27 00:30:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-27 01:00:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-27 01:30:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-27 02:00:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-27 02:30:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-27 03:00:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-27 03:30:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-27 04:00:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-27 04:30:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-27 05:00:00",
+    "min": 0,
+    "min_seconds": 205,
+    "mean": 1.0627777777777778,
+    "max": 2,
+    "max_seconds": 318
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-27 05:30:00",
+    "min": 2,
+    "min_seconds": 1800,
+    "mean": 2,
+    "max": 2,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-27 06:00:00",
+    "min": 1,
+    "min_seconds": 411,
+    "mean": 1.833888888888889,
+    "max": 3,
+    "max_seconds": 112
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-27 06:30:00",
+    "min": 1,
+    "min_seconds": 362,
+    "mean": 2.1783333333333332,
+    "max": 3,
+    "max_seconds": 683
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-27 07:00:00",
+    "min": 0,
+    "min_seconds": 179,
+    "mean": 3.1505555555555556,
+    "max": 5,
+    "max_seconds": 239
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-27 07:30:00",
+    "min": 5,
+    "min_seconds": 79,
+    "mean": 9.991111111111111,
+    "max": 23,
+    "max_seconds": 18
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-27 08:00:00",
+    "min": 20,
+    "min_seconds": 22,
+    "mean": 31.656111111111112,
+    "max": 43,
+    "max_seconds": 22
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-27 08:30:00",
+    "min": 41,
+    "min_seconds": 1,
+    "mean": 48.78055555555556,
+    "max": 61,
+    "max_seconds": 19
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-27 09:00:00",
+    "min": 60,
+    "min_seconds": 3,
+    "mean": 69.41055555555556,
+    "max": 80,
+    "max_seconds": 1
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-27 09:30:00",
+    "min": 62,
+    "min_seconds": 21,
+    "mean": 74.03722222222223,
+    "max": 85,
+    "max_seconds": 15
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-27 10:00:00",
+    "min": 68,
+    "min_seconds": 33,
+    "mean": 76.455,
+    "max": 86,
+    "max_seconds": 2
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-27 10:30:00",
+    "min": 69,
+    "min_seconds": 5,
+    "mean": 83.40611111111112,
+    "max": 92,
+    "max_seconds": 16
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-27 11:00:00",
+    "min": 85,
+    "min_seconds": 9,
+    "mean": 90.41722222222222,
+    "max": 100,
+    "max_seconds": 4
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-27 11:30:00",
+    "min": 74,
+    "min_seconds": 27,
+    "mean": 83.87833333333333,
+    "max": 95,
+    "max_seconds": 107
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-27 12:00:00",
+    "min": 66,
+    "min_seconds": 10,
+    "mean": 86.22444444444444,
+    "max": 98,
+    "max_seconds": 24
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-27 12:30:00",
+    "min": 66,
+    "min_seconds": 9,
+    "mean": 79.05277777777778,
+    "max": 91,
+    "max_seconds": 3
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-27 13:00:00",
+    "min": 88,
+    "min_seconds": 13,
+    "mean": 93.86277777777778,
+    "max": 105,
+    "max_seconds": 2
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-27 13:30:00",
+    "min": 81,
+    "min_seconds": 11,
+    "mean": 90.44944444444444,
+    "max": 100,
+    "max_seconds": 2
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-27 14:00:00",
+    "min": 81,
+    "min_seconds": 17,
+    "mean": 98.25222222222222,
+    "max": 107,
+    "max_seconds": 17
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-27 14:30:00",
+    "min": 84,
+    "min_seconds": 6,
+    "mean": 91.555,
+    "max": 99,
+    "max_seconds": 15
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-27 15:00:00",
+    "min": 77,
+    "min_seconds": 17,
+    "mean": 86.63555555555556,
+    "max": 97,
+    "max_seconds": 12
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-27 15:30:00",
+    "min": 86,
+    "min_seconds": 73,
+    "mean": 92.38944444444445,
+    "max": 98,
+    "max_seconds": 54
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-27 16:00:00",
+    "min": 79,
+    "min_seconds": 31,
+    "mean": 85.23,
+    "max": 98,
+    "max_seconds": 30
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-27 16:30:00",
+    "min": 66,
+    "min_seconds": 47,
+    "mean": 73.30722222222222,
+    "max": 83,
+    "max_seconds": 21
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-27 17:00:00",
+    "min": 43,
+    "min_seconds": 14,
+    "mean": 55.89055555555556,
+    "max": 73,
+    "max_seconds": 20
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-27 17:30:00",
+    "min": 29,
+    "min_seconds": 1,
+    "mean": 38.57,
+    "max": 56,
+    "max_seconds": 4
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-27 18:00:00",
+    "min": 18,
+    "min_seconds": 59,
+    "mean": 22.877222222222223,
+    "max": 30,
+    "max_seconds": 9
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-27 18:30:00",
+    "min": 13,
+    "min_seconds": 10,
+    "mean": 17.794444444444444,
+    "max": 22,
+    "max_seconds": 61
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-27 19:00:00",
+    "min": 9,
+    "min_seconds": 75,
+    "mean": 11.458333333333334,
+    "max": 14,
+    "max_seconds": 46
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-27 19:30:00",
+    "min": 4,
+    "min_seconds": 224,
+    "mean": 8.507222222222222,
+    "max": 17,
+    "max_seconds": 3
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-27 20:00:00",
+    "min": 4,
+    "min_seconds": 488,
+    "mean": 6.860555555555556,
+    "max": 14,
+    "max_seconds": 75
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-27 20:30:00",
+    "min": 4,
+    "min_seconds": 52,
+    "mean": 10.425555555555556,
+    "max": 14,
+    "max_seconds": 178
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-27 21:00:00",
+    "min": 2,
+    "min_seconds": 705,
+    "mean": 2.647777777777778,
+    "max": 5,
+    "max_seconds": 7
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-27 21:30:00",
+    "min": 2,
+    "min_seconds": 1473,
+    "mean": 2.1816666666666666,
+    "max": 3,
+    "max_seconds": 327
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-27 22:00:00",
+    "min": 1,
+    "min_seconds": 636,
+    "mean": 2.175,
+    "max": 6,
+    "max_seconds": 170
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-27 22:30:00",
+    "min": 1,
+    "min_seconds": 1623,
+    "mean": 1.2316666666666667,
+    "max": 5,
+    "max_seconds": 32
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-27 23:00:00",
+    "min": 0,
+    "min_seconds": 1498,
+    "mean": 0.4444444444444444,
+    "max": 5,
+    "max_seconds": 33
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-27 23:30:00",
+    "min": 0,
+    "min_seconds": 1433,
+    "mean": 0.2038888888888889,
+    "max": 1,
+    "max_seconds": 367
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-28 00:00:00",
+    "min": 0,
+    "min_seconds": 1197,
+    "mean": 0.8472222222222222,
+    "max": 6,
+    "max_seconds": 65
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-28 00:30:00",
+    "min": 0,
+    "min_seconds": 1687,
+    "mean": 0.06277777777777778,
+    "max": 1,
+    "max_seconds": 113
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-28 01:00:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-28 01:30:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-28 02:00:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-28 02:30:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-28 03:00:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-28 03:30:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-28 04:00:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-28 04:30:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-28 05:00:00",
+    "min": 0,
+    "min_seconds": 1518,
+    "mean": 0.15666666666666668,
+    "max": 1,
+    "max_seconds": 282
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-28 05:30:00",
+    "min": 0,
+    "min_seconds": 319,
+    "mean": 0.8227777777777778,
+    "max": 1,
+    "max_seconds": 1481
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-28 06:00:00",
+    "min": 0,
+    "min_seconds": 318,
+    "mean": 1.0922222222222222,
+    "max": 2,
+    "max_seconds": 484
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-28 06:30:00",
+    "min": 0,
+    "min_seconds": 262,
+    "mean": 0.8544444444444445,
+    "max": 1,
+    "max_seconds": 1538
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-28 07:00:00",
+    "min": 0,
+    "min_seconds": 59,
+    "mean": 2.205,
+    "max": 3,
+    "max_seconds": 816
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-28 07:30:00",
+    "min": 2,
+    "min_seconds": 122,
+    "mean": 4.863333333333333,
+    "max": 8,
+    "max_seconds": 183
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-28 08:00:00",
+    "min": 3,
+    "min_seconds": 89,
+    "mean": 15.200555555555555,
+    "max": 22,
+    "max_seconds": 23
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-28 08:30:00",
+    "min": 18,
+    "min_seconds": 22,
+    "mean": 31.70722222222222,
+    "max": 47,
+    "max_seconds": 45
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-28 09:00:00",
+    "min": 40,
+    "min_seconds": 69,
+    "mean": 46.445,
+    "max": 55,
+    "max_seconds": 17
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-28 09:30:00",
+    "min": 48,
+    "min_seconds": 15,
+    "mean": 54.78111111111111,
+    "max": 62,
+    "max_seconds": 15
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-28 10:00:00",
+    "min": 60,
+    "min_seconds": 69,
+    "mean": 63.928333333333335,
+    "max": 70,
+    "max_seconds": 37
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-28 10:30:00",
+    "min": 59,
+    "min_seconds": 17,
+    "mean": 66.585,
+    "max": 71,
+    "max_seconds": 58
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-28 11:00:00",
+    "min": 59,
+    "min_seconds": 2,
+    "mean": 65.91333333333333,
+    "max": 75,
+    "max_seconds": 7
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-28 11:30:00",
+    "min": 57,
+    "min_seconds": 49,
+    "mean": 66.78944444444444,
+    "max": 74,
+    "max_seconds": 32
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-28 12:00:00",
+    "min": 53,
+    "min_seconds": 6,
+    "mean": 64.27666666666667,
+    "max": 73,
+    "max_seconds": 9
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-28 12:30:00",
+    "min": 53,
+    "min_seconds": 17,
+    "mean": 59.63388888888889,
+    "max": 74,
+    "max_seconds": 13
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-28 13:00:00",
+    "min": 52,
+    "min_seconds": 4,
+    "mean": 58.55111111111111,
+    "max": 63,
+    "max_seconds": 12
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-28 13:30:00",
+    "min": 50,
+    "min_seconds": 2,
+    "mean": 59.1,
+    "max": 69,
+    "max_seconds": 14
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-28 14:00:00",
+    "min": 51,
+    "min_seconds": 12,
+    "mean": 60.445,
+    "max": 66,
+    "max_seconds": 18
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-28 14:30:00",
+    "min": 59,
+    "min_seconds": 3,
+    "mean": 64.32888888888888,
+    "max": 71,
+    "max_seconds": 5
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-28 15:00:00",
+    "min": 62,
+    "min_seconds": 11,
+    "mean": 68.34388888888888,
+    "max": 75,
+    "max_seconds": 34
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-28 15:30:00",
+    "min": 56,
+    "min_seconds": 7,
+    "mean": 64.08222222222223,
+    "max": 73,
+    "max_seconds": 26
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-28 16:00:00",
+    "min": 49,
+    "min_seconds": 27,
+    "mean": 59.83166666666666,
+    "max": 65,
+    "max_seconds": 50
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-28 16:30:00",
+    "min": 39,
+    "min_seconds": 37,
+    "mean": 47.961666666666666,
+    "max": 58,
+    "max_seconds": 3
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-28 17:00:00",
+    "min": 29,
+    "min_seconds": 48,
+    "mean": 33.82888888888889,
+    "max": 43,
+    "max_seconds": 10
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-28 17:30:00",
+    "min": 20,
+    "min_seconds": 63,
+    "mean": 24.939444444444444,
+    "max": 32,
+    "max_seconds": 4
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-28 18:00:00",
+    "min": 9,
+    "min_seconds": 4,
+    "mean": 16.77166666666667,
+    "max": 24,
+    "max_seconds": 55
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-28 18:30:00",
+    "min": 9,
+    "min_seconds": 619,
+    "mean": 10.310555555555556,
+    "max": 13,
+    "max_seconds": 102
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-28 19:00:00",
+    "min": 4,
+    "min_seconds": 196,
+    "mean": 7.154444444444445,
+    "max": 10,
+    "max_seconds": 107
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-28 19:30:00",
+    "min": 4,
+    "min_seconds": 1271,
+    "mean": 4.293888888888889,
+    "max": 5,
+    "max_seconds": 529
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-28 20:00:00",
+    "min": 1,
+    "min_seconds": 1033,
+    "mean": 1.698888888888889,
+    "max": 4,
+    "max_seconds": 77
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-28 20:30:00",
+    "min": 1,
+    "min_seconds": 1630,
+    "mean": 1.0944444444444446,
+    "max": 2,
+    "max_seconds": 170
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-28 21:00:00",
+    "min": 0,
+    "min_seconds": 1794,
+    "mean": 0.0033333333333333335,
+    "max": 1,
+    "max_seconds": 6
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-28 21:30:00",
+    "min": 0,
+    "min_seconds": 1657,
+    "mean": 0.07944444444444444,
+    "max": 1,
+    "max_seconds": 143
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-28 22:00:00",
+    "min": 0,
+    "min_seconds": 1620,
+    "mean": 0.1,
+    "max": 1,
+    "max_seconds": 180
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-28 22:30:00",
+    "min": 0,
+    "min_seconds": 1549,
+    "mean": 0.13944444444444445,
+    "max": 1,
+    "max_seconds": 251
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-28 23:00:00",
+    "min": 1,
+    "min_seconds": 15,
+    "mean": 45.431666666666665,
+    "max": 99,
+    "max_seconds": 5
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-28 23:30:00",
+    "min": 8,
+    "min_seconds": 84,
+    "mean": 36.19222222222222,
+    "max": 79,
+    "max_seconds": 14
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-31 00:00:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-31 00:30:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-31 01:00:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-31 01:30:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-31 02:00:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-31 02:30:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-31 03:00:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-31 03:30:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-31 04:00:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-31 04:30:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-31 05:00:00",
+    "min": 0,
+    "min_seconds": 322,
+    "mean": 1.305,
+    "max": 2,
+    "max_seconds": 871
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-31 05:30:00",
+    "min": 1,
+    "min_seconds": 1711,
+    "mean": 1.0494444444444444,
+    "max": 2,
+    "max_seconds": 89
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-31 06:00:00",
+    "min": 1,
+    "min_seconds": 382,
+    "mean": 2.861666666666667,
+    "max": 6,
+    "max_seconds": 26
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-31 06:30:00",
+    "min": 3,
+    "min_seconds": 770,
+    "mean": 4.381111111111111,
+    "max": 8,
+    "max_seconds": 35
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-31 07:00:00",
+    "min": 6,
+    "min_seconds": 35,
+    "mean": 17.6,
+    "max": 33,
+    "max_seconds": 12
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-31 07:30:00",
+    "min": 28,
+    "min_seconds": 8,
+    "mean": 50.55833333333333,
+    "max": 80,
+    "max_seconds": 17
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-31 08:00:00",
+    "min": 61,
+    "min_seconds": 7,
+    "mean": 89.38666666666667,
+    "max": 140,
+    "max_seconds": 4
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-31 08:30:00",
+    "min": 134,
+    "min_seconds": 1,
+    "mean": 167.1927777777778,
+    "max": 202,
+    "max_seconds": 4
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-31 09:00:00",
+    "min": 198,
+    "min_seconds": 13,
+    "mean": 229.54333333333332,
+    "max": 281,
+    "max_seconds": 1
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-31 09:30:00",
+    "min": 279,
+    "min_seconds": 15,
+    "mean": 299.23333333333335,
+    "max": 316,
+    "max_seconds": 1
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-31 10:00:00",
+    "min": 291,
+    "min_seconds": 2,
+    "mean": 308.2272222222222,
+    "max": 334,
+    "max_seconds": 8
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-31 10:30:00",
+    "min": 301,
+    "min_seconds": 9,
+    "mean": 317.08,
+    "max": 334,
+    "max_seconds": 2
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-31 11:00:00",
+    "min": 297,
+    "min_seconds": 5,
+    "mean": 320.9088888888889,
+    "max": 347,
+    "max_seconds": 2
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-31 11:30:00",
+    "min": 296,
+    "min_seconds": 1,
+    "mean": 329.5238888888889,
+    "max": 356,
+    "max_seconds": 13
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-31 12:00:00",
+    "min": 242,
+    "min_seconds": 5,
+    "mean": 269.7338888888889,
+    "max": 298,
+    "max_seconds": 1
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-31 12:30:00",
+    "min": 237,
+    "min_seconds": 1,
+    "mean": 256.3688888888889,
+    "max": 277,
+    "max_seconds": 7
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-31 13:00:00",
+    "min": 246,
+    "min_seconds": 2,
+    "mean": 286.0105555555556,
+    "max": 311,
+    "max_seconds": 2
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-31 13:30:00",
+    "min": 283,
+    "min_seconds": 17,
+    "mean": 305.03333333333336,
+    "max": 323,
+    "max_seconds": 5
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-31 14:00:00",
+    "min": 314,
+    "min_seconds": 5,
+    "mean": 333.4244444444444,
+    "max": 349,
+    "max_seconds": 1
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-31 14:30:00",
+    "min": 307,
+    "min_seconds": 10,
+    "mean": 327.62,
+    "max": 351,
+    "max_seconds": 5
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-31 15:00:00",
+    "min": 304,
+    "min_seconds": 1,
+    "mean": 329.7577777777778,
+    "max": 357,
+    "max_seconds": 2
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-31 15:30:00",
+    "min": 296,
+    "min_seconds": 3,
+    "mean": 320.36555555555555,
+    "max": 344,
+    "max_seconds": 5
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-31 16:00:00",
+    "min": 273,
+    "min_seconds": 5,
+    "mean": 297.2133333333333,
+    "max": 321,
+    "max_seconds": 3
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-31 16:30:00",
+    "min": 214,
+    "min_seconds": 2,
+    "mean": 255.6988888888889,
+    "max": 284,
+    "max_seconds": 3
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-31 17:00:00",
+    "min": 141,
+    "min_seconds": 2,
+    "mean": 182.7577777777778,
+    "max": 215,
+    "max_seconds": 4
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-31 17:30:00",
+    "min": 84,
+    "min_seconds": 2,
+    "mean": 107.93833333333333,
+    "max": 142,
+    "max_seconds": 2
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-31 18:00:00",
+    "min": 49,
+    "min_seconds": 22,
+    "mean": 68.85944444444445,
+    "max": 86,
+    "max_seconds": 11
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-31 18:30:00",
+    "min": 31,
+    "min_seconds": 5,
+    "mean": 38.848333333333336,
+    "max": 50,
+    "max_seconds": 37
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-31 19:00:00",
+    "min": 16,
+    "min_seconds": 20,
+    "mean": 26.067777777777778,
+    "max": 36,
+    "max_seconds": 5
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-31 19:30:00",
+    "min": 8,
+    "min_seconds": 42,
+    "mean": 15.470555555555556,
+    "max": 25,
+    "max_seconds": 44
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-31 20:00:00",
+    "min": 10,
+    "min_seconds": 32,
+    "mean": 19.225555555555555,
+    "max": 23,
+    "max_seconds": 192
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-31 20:30:00",
+    "min": 15,
+    "min_seconds": 299,
+    "mean": 17.063333333333333,
+    "max": 22,
+    "max_seconds": 24
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-31 21:00:00",
+    "min": 12,
+    "min_seconds": 137,
+    "mean": 14.778888888888888,
+    "max": 17,
+    "max_seconds": 165
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-31 21:30:00",
+    "min": 11,
+    "min_seconds": 11,
+    "mean": 15.063333333333333,
+    "max": 17,
+    "max_seconds": 156
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-31 22:00:00",
+    "min": 0,
+    "min_seconds": 346,
+    "mean": 1.7694444444444444,
+    "max": 16,
+    "max_seconds": 2
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-31 22:30:00",
+    "min": 0,
+    "min_seconds": 572,
+    "mean": 0.8377777777777777,
+    "max": 4,
+    "max_seconds": 50
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-31 23:00:00",
+    "min": 0,
+    "min_seconds": 386,
+    "mean": 1.3827777777777779,
+    "max": 3,
+    "max_seconds": 274
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-10-31 23:30:00",
+    "min": 1,
+    "min_seconds": 1089,
+    "mean": 1.5444444444444445,
+    "max": 4,
+    "max_seconds": 32
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-01 00:00:00",
+    "min": 1,
+    "min_seconds": 1455,
+    "mean": 1.1916666666666667,
+    "max": 2,
+    "max_seconds": 345
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-01 00:30:00",
+    "min": 1,
+    "min_seconds": 1800,
+    "mean": 1,
+    "max": 1,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-01 01:00:00",
+    "min": 1,
+    "min_seconds": 1800,
+    "mean": 1,
+    "max": 1,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-01 01:30:00",
+    "min": 0,
+    "min_seconds": 1289,
+    "mean": 0.2838888888888889,
+    "max": 1,
+    "max_seconds": 511
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-01 02:00:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-01 02:30:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-01 03:00:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-01 03:30:00",
+    "min": 0,
+    "min_seconds": 957,
+    "mean": 0.4683333333333333,
+    "max": 1,
+    "max_seconds": 843
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-01 04:00:00",
+    "min": 1,
+    "min_seconds": 1800,
+    "mean": 1,
+    "max": 1,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-01 04:30:00",
+    "min": 1,
+    "min_seconds": 1800,
+    "mean": 1,
+    "max": 1,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-01 05:00:00",
+    "min": 1,
+    "min_seconds": 283,
+    "mean": 1.8427777777777778,
+    "max": 2,
+    "max_seconds": 1517
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-01 05:30:00",
+    "min": 1,
+    "min_seconds": 59,
+    "mean": 1.9672222222222222,
+    "max": 2,
+    "max_seconds": 1741
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-01 06:00:00",
+    "min": 2,
+    "min_seconds": 160,
+    "mean": 3.78,
+    "max": 5,
+    "max_seconds": 461
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-01 06:30:00",
+    "min": 4,
+    "min_seconds": 34,
+    "mean": 6.212777777777778,
+    "max": 8,
+    "max_seconds": 430
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-01 07:00:00",
+    "min": 4,
+    "min_seconds": 27,
+    "mean": 14.868333333333334,
+    "max": 30,
+    "max_seconds": 13
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-01 07:30:00",
+    "min": 21,
+    "min_seconds": 1,
+    "mean": 46.42888888888889,
+    "max": 66,
+    "max_seconds": 2
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-01 08:00:00",
+    "min": 61,
+    "min_seconds": 13,
+    "mean": 91.76611111111112,
+    "max": 123,
+    "max_seconds": 7
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-01 08:30:00",
+    "min": 121,
+    "min_seconds": 5,
+    "mean": 175.71666666666667,
+    "max": 243,
+    "max_seconds": 5
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-01 09:00:00",
+    "min": 215,
+    "min_seconds": 5,
+    "mean": 245.43944444444443,
+    "max": 286,
+    "max_seconds": 1
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-01 09:30:00",
+    "min": 271,
+    "min_seconds": 3,
+    "mean": 299.8177777777778,
+    "max": 331,
+    "max_seconds": 11
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-01 10:00:00",
+    "min": 291,
+    "min_seconds": 1,
+    "mean": 313.7472222222222,
+    "max": 335,
+    "max_seconds": 7
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-01 10:30:00",
+    "min": 300,
+    "min_seconds": 6,
+    "mean": 327.8566666666667,
+    "max": 350,
+    "max_seconds": 1
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-01 11:00:00",
+    "min": 324,
+    "min_seconds": 3,
+    "mean": 340.1611111111111,
+    "max": 354,
+    "max_seconds": 7
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-01 11:30:00",
+    "min": 318,
+    "min_seconds": 15,
+    "mean": 336.8827777777778,
+    "max": 354,
+    "max_seconds": 2
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-01 12:00:00",
+    "min": 252,
+    "min_seconds": 3,
+    "mean": 276.8177777777778,
+    "max": 321,
+    "max_seconds": 10
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-01 12:30:00",
+    "min": 214,
+    "min_seconds": 5,
+    "mean": 232.11111111111111,
+    "max": 262,
+    "max_seconds": 6
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-01 13:00:00",
+    "min": 233,
+    "min_seconds": 7,
+    "mean": 273.84277777777777,
+    "max": 299,
+    "max_seconds": 3
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-01 13:30:00",
+    "min": 272,
+    "min_seconds": 5,
+    "mean": 315.15222222222224,
+    "max": 351,
+    "max_seconds": 3
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-01 14:00:00",
+    "min": 330,
+    "min_seconds": 2,
+    "mean": 341.7705555555556,
+    "max": 357,
+    "max_seconds": 13
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-01 14:30:00",
+    "min": 318,
+    "min_seconds": 1,
+    "mean": 348.17833333333334,
+    "max": 366,
+    "max_seconds": 12
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-01 15:00:00",
+    "min": 325,
+    "min_seconds": 8,
+    "mean": 343.60555555555555,
+    "max": 358,
+    "max_seconds": 6
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-01 15:30:00",
+    "min": 322,
+    "min_seconds": 16,
+    "mean": 336.3211111111111,
+    "max": 359,
+    "max_seconds": 2
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-01 16:00:00",
+    "min": 300,
+    "min_seconds": 1,
+    "mean": 319.0083333333333,
+    "max": 336,
+    "max_seconds": 5
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-01 16:30:00",
+    "min": 259,
+    "min_seconds": 17,
+    "mean": 291.0833333333333,
+    "max": 319,
+    "max_seconds": 5
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-01 17:00:00",
+    "min": 180,
+    "min_seconds": 5,
+    "mean": 219.8111111111111,
+    "max": 260,
+    "max_seconds": 14
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-01 17:30:00",
+    "min": 109,
+    "min_seconds": 10,
+    "mean": 150.27,
+    "max": 184,
+    "max_seconds": 7
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-01 18:00:00",
+    "min": 74,
+    "min_seconds": 6,
+    "mean": 95.70111111111112,
+    "max": 119,
+    "max_seconds": 9
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-01 18:30:00",
+    "min": 45,
+    "min_seconds": 3,
+    "mean": 58.13333333333333,
+    "max": 77,
+    "max_seconds": 11
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-01 19:00:00",
+    "min": 34,
+    "min_seconds": 14,
+    "mean": 42.06,
+    "max": 48,
+    "max_seconds": 38
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-01 19:30:00",
+    "min": 22,
+    "min_seconds": 52,
+    "mean": 27.54611111111111,
+    "max": 36,
+    "max_seconds": 24
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-01 20:00:00",
+    "min": 15,
+    "min_seconds": 35,
+    "mean": 20.470555555555556,
+    "max": 32,
+    "max_seconds": 27
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-01 20:30:00",
+    "min": 7,
+    "min_seconds": 122,
+    "mean": 10.279444444444444,
+    "max": 16,
+    "max_seconds": 43
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-01 21:00:00",
+    "min": 1,
+    "min_seconds": 27,
+    "mean": 5.038888888888889,
+    "max": 8,
+    "max_seconds": 165
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-01 21:30:00",
+    "min": 1,
+    "min_seconds": 445,
+    "mean": 3.1783333333333332,
+    "max": 5,
+    "max_seconds": 220
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-01 22:00:00",
+    "min": 0,
+    "min_seconds": 879,
+    "mean": 0.6111111111111112,
+    "max": 2,
+    "max_seconds": 179
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-01 22:30:00",
+    "min": 0,
+    "min_seconds": 704,
+    "mean": 1.893888888888889,
+    "max": 4,
+    "max_seconds": 275
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-01 23:00:00",
+    "min": 1,
+    "min_seconds": 318,
+    "mean": 3.0833333333333335,
+    "max": 8,
+    "max_seconds": 124
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-01 23:30:00",
+    "min": 1,
+    "min_seconds": 378,
+    "mean": 2.2127777777777777,
+    "max": 4,
+    "max_seconds": 4
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-02 00:00:00",
+    "min": 1,
+    "min_seconds": 1451,
+    "mean": 1.3244444444444445,
+    "max": 3,
+    "max_seconds": 235
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-02 00:30:00",
+    "min": 1,
+    "min_seconds": 1800,
+    "mean": 1,
+    "max": 1,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-02 01:00:00",
+    "min": 1,
+    "min_seconds": 1411,
+    "mean": 1.2161111111111111,
+    "max": 2,
+    "max_seconds": 389
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-02 01:30:00",
+    "min": 0,
+    "min_seconds": 1334,
+    "mean": 0.2588888888888889,
+    "max": 1,
+    "max_seconds": 466
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-02 02:00:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-02 02:30:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-02 03:00:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-02 03:30:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-02 04:00:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-02 04:30:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-02 05:00:00",
+    "min": 0,
+    "min_seconds": 796,
+    "mean": 0.5577777777777778,
+    "max": 1,
+    "max_seconds": 1004
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-02 05:30:00",
+    "min": 0,
+    "min_seconds": 786,
+    "mean": 0.5633333333333334,
+    "max": 1,
+    "max_seconds": 1014
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-02 06:00:00",
+    "min": 1,
+    "min_seconds": 26,
+    "mean": 3.546666666666667,
+    "max": 6,
+    "max_seconds": 85
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-02 06:30:00",
+    "min": 3,
+    "min_seconds": 163,
+    "mean": 6.546666666666667,
+    "max": 10,
+    "max_seconds": 98
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-02 07:00:00",
+    "min": 7,
+    "min_seconds": 29,
+    "mean": 16.798333333333332,
+    "max": 29,
+    "max_seconds": 2
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-02 07:30:00",
+    "min": 27,
+    "min_seconds": 17,
+    "mean": 47.63666666666666,
+    "max": 66,
+    "max_seconds": 8
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-02 08:00:00",
+    "min": 63,
+    "min_seconds": 7,
+    "mean": 102.99055555555556,
+    "max": 144,
+    "max_seconds": 15
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-02 08:30:00",
+    "min": 138,
+    "min_seconds": 4,
+    "mean": 167.97,
+    "max": 211,
+    "max_seconds": 1
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-02 09:00:00",
+    "min": 201,
+    "min_seconds": 5,
+    "mean": 243.8361111111111,
+    "max": 287,
+    "max_seconds": 4
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-02 09:30:00",
+    "min": 283,
+    "min_seconds": 3,
+    "mean": 299.32944444444445,
+    "max": 324,
+    "max_seconds": 2
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-02 10:00:00",
+    "min": 310,
+    "min_seconds": 8,
+    "mean": 325.5661111111111,
+    "max": 347,
+    "max_seconds": 1
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-02 10:30:00",
+    "min": 305,
+    "min_seconds": 7,
+    "mean": 330.30444444444447,
+    "max": 347,
+    "max_seconds": 2
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-02 11:00:00",
+    "min": 321,
+    "min_seconds": 8,
+    "mean": 340.4888888888889,
+    "max": 355,
+    "max_seconds": 4
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-02 11:30:00",
+    "min": 314,
+    "min_seconds": 2,
+    "mean": 350.1927777777778,
+    "max": 374,
+    "max_seconds": 3
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-02 12:00:00",
+    "min": 240,
+    "min_seconds": 3,
+    "mean": 277.91777777777776,
+    "max": 324,
+    "max_seconds": 2
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-02 12:30:00",
+    "min": 198,
+    "min_seconds": 4,
+    "mean": 225.7188888888889,
+    "max": 256,
+    "max_seconds": 10
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-02 13:00:00",
+    "min": 218,
+    "min_seconds": 19,
+    "mean": 259.5966666666667,
+    "max": 305,
+    "max_seconds": 2
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-02 13:30:00",
+    "min": 285,
+    "min_seconds": 11,
+    "mean": 311.5966666666667,
+    "max": 349,
+    "max_seconds": 6
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-02 14:00:00",
+    "min": 321,
+    "min_seconds": 8,
+    "mean": 346.3383333333333,
+    "max": 364,
+    "max_seconds": 1
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-02 14:30:00",
+    "min": 337,
+    "min_seconds": 1,
+    "mean": 350.06111111111113,
+    "max": 365,
+    "max_seconds": 6
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-02 15:00:00",
+    "min": 346,
+    "min_seconds": 5,
+    "mean": 361.05444444444447,
+    "max": 378,
+    "max_seconds": 9
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-02 15:30:00",
+    "min": 315,
+    "min_seconds": 9,
+    "mean": 344.4488888888889,
+    "max": 361,
+    "max_seconds": 12
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-02 16:00:00",
+    "min": 285,
+    "min_seconds": 1,
+    "mean": 321.9172222222222,
+    "max": 357,
+    "max_seconds": 4
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-02 16:30:00",
+    "min": 255,
+    "min_seconds": 2,
+    "mean": 283.84,
+    "max": 307,
+    "max_seconds": 2
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-02 17:00:00",
+    "min": 170,
+    "min_seconds": 8,
+    "mean": 206.48666666666668,
+    "max": 258,
+    "max_seconds": 8
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-02 17:30:00",
+    "min": 106,
+    "min_seconds": 16,
+    "mean": 146.2711111111111,
+    "max": 181,
+    "max_seconds": 9
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-02 18:00:00",
+    "min": 68,
+    "min_seconds": 2,
+    "mean": 87.20277777777778,
+    "max": 110,
+    "max_seconds": 5
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-02 18:30:00",
+    "min": 45,
+    "min_seconds": 36,
+    "mean": 61.84111111111111,
+    "max": 74,
+    "max_seconds": 1
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-02 19:00:00",
+    "min": 21,
+    "min_seconds": 12,
+    "mean": 32.17888888888889,
+    "max": 47,
+    "max_seconds": 21
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-02 19:30:00",
+    "min": 15,
+    "min_seconds": 4,
+    "mean": 23.06111111111111,
+    "max": 29,
+    "max_seconds": 34
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-02 20:00:00",
+    "min": 11,
+    "min_seconds": 37,
+    "mean": 14.615555555555556,
+    "max": 19,
+    "max_seconds": 37
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-02 20:30:00",
+    "min": 7,
+    "min_seconds": 125,
+    "mean": 10.217777777777778,
+    "max": 13,
+    "max_seconds": 92
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-02 21:00:00",
+    "min": 4,
+    "min_seconds": 35,
+    "mean": 7.014444444444444,
+    "max": 12,
+    "max_seconds": 35
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-02 21:30:00",
+    "min": 4,
+    "min_seconds": 649,
+    "mean": 4.944444444444445,
+    "max": 6,
+    "max_seconds": 549
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-02 22:00:00",
+    "min": 3,
+    "min_seconds": 513,
+    "mean": 4.522777777777778,
+    "max": 8,
+    "max_seconds": 11
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-02 22:30:00",
+    "min": 2,
+    "min_seconds": 343,
+    "mean": 3.5922222222222224,
+    "max": 6,
+    "max_seconds": 18
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-02 23:00:00",
+    "min": 1,
+    "min_seconds": 454,
+    "mean": 2.928888888888889,
+    "max": 6,
+    "max_seconds": 64
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-02 23:30:00",
+    "min": 1,
+    "min_seconds": 1117,
+    "mean": 1.8805555555555555,
+    "max": 4,
+    "max_seconds": 384
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-03 00:00:00",
+    "min": 1,
+    "min_seconds": 1800,
+    "mean": 1,
+    "max": 1,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-03 00:30:00",
+    "min": 0,
+    "min_seconds": 84,
+    "mean": 0.9533333333333334,
+    "max": 1,
+    "max_seconds": 1716
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-03 01:00:00",
+    "min": 0,
+    "min_seconds": 1503,
+    "mean": 0.165,
+    "max": 1,
+    "max_seconds": 297
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-03 01:30:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-03 02:00:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-03 02:30:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-03 03:00:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-03 03:30:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-03 04:00:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-03 04:30:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-03 05:00:00",
+    "min": 0,
+    "min_seconds": 892,
+    "mean": 0.5044444444444445,
+    "max": 1,
+    "max_seconds": 908
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-03 05:30:00",
+    "min": 1,
+    "min_seconds": 1800,
+    "mean": 1,
+    "max": 1,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-03 06:00:00",
+    "min": 1,
+    "min_seconds": 429,
+    "mean": 2.371111111111111,
+    "max": 5,
+    "max_seconds": 20
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-03 06:30:00",
+    "min": 4,
+    "min_seconds": 211,
+    "mean": 7.2011111111111115,
+    "max": 11,
+    "max_seconds": 67
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-03 07:00:00",
+    "min": 11,
+    "min_seconds": 171,
+    "mean": 16.841666666666665,
+    "max": 24,
+    "max_seconds": 17
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-03 07:30:00",
+    "min": 20,
+    "min_seconds": 27,
+    "mean": 47.117222222222225,
+    "max": 72,
+    "max_seconds": 3
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-03 08:00:00",
+    "min": 71,
+    "min_seconds": 2,
+    "mean": 101.58055555555555,
+    "max": 130,
+    "max_seconds": 2
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-03 08:30:00",
+    "min": 123,
+    "min_seconds": 1,
+    "mean": 174.3177777777778,
+    "max": 215,
+    "max_seconds": 2
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-03 09:00:00",
+    "min": 211,
+    "min_seconds": 2,
+    "mean": 239.58555555555554,
+    "max": 271,
+    "max_seconds": 12
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-03 09:30:00",
+    "min": 266,
+    "min_seconds": 2,
+    "mean": 296.33222222222224,
+    "max": 321,
+    "max_seconds": 9
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-03 10:00:00",
+    "min": 305,
+    "min_seconds": 3,
+    "mean": 330.00055555555554,
+    "max": 355,
+    "max_seconds": 3
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-03 10:30:00",
+    "min": 330,
+    "min_seconds": 5,
+    "mean": 344.585,
+    "max": 358,
+    "max_seconds": 3
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-03 11:00:00",
+    "min": 316,
+    "min_seconds": 3,
+    "mean": 338.81,
+    "max": 377,
+    "max_seconds": 3
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-03 11:30:00",
+    "min": 322,
+    "min_seconds": 2,
+    "mean": 349.1066666666667,
+    "max": 382,
+    "max_seconds": 4
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-03 12:00:00",
+    "min": 255,
+    "min_seconds": 6,
+    "mean": 303.6611111111111,
+    "max": 349,
+    "max_seconds": 1
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-03 12:30:00",
+    "min": 244,
+    "min_seconds": 12,
+    "mean": 257.3022222222222,
+    "max": 272,
+    "max_seconds": 2
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-03 13:00:00",
+    "min": 251,
+    "min_seconds": 3,
+    "mean": 268.87444444444446,
+    "max": 294,
+    "max_seconds": 1
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-03 13:30:00",
+    "min": 278,
+    "min_seconds": 2,
+    "mean": 308.1538888888889,
+    "max": 331,
+    "max_seconds": 2
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-03 14:00:00",
+    "min": 309,
+    "min_seconds": 4,
+    "mean": 336.93666666666667,
+    "max": 353,
+    "max_seconds": 5
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-03 14:30:00",
+    "min": 321,
+    "min_seconds": 12,
+    "mean": 339.5138888888889,
+    "max": 365,
+    "max_seconds": 2
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-03 15:00:00",
+    "min": 315,
+    "min_seconds": 2,
+    "mean": 335.0966666666667,
+    "max": 360,
+    "max_seconds": 1
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-03 15:30:00",
+    "min": 311,
+    "min_seconds": 11,
+    "mean": 334.27555555555557,
+    "max": 356,
+    "max_seconds": 4
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-03 16:00:00",
+    "min": 284,
+    "min_seconds": 4,
+    "mean": 313.02166666666665,
+    "max": 337,
+    "max_seconds": 1
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-03 16:30:00",
+    "min": 231,
+    "min_seconds": 7,
+    "mean": 260.1144444444444,
+    "max": 291,
+    "max_seconds": 4
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-03 17:00:00",
+    "min": 162,
+    "min_seconds": 8,
+    "mean": 197.19,
+    "max": 233,
+    "max_seconds": 5
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-03 17:30:00",
+    "min": 107,
+    "min_seconds": 16,
+    "mean": 138.98055555555555,
+    "max": 178,
+    "max_seconds": 13
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-03 18:00:00",
+    "min": 73,
+    "min_seconds": 3,
+    "mean": 92.00222222222222,
+    "max": 116,
+    "max_seconds": 6
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-03 18:30:00",
+    "min": 51,
+    "min_seconds": 33,
+    "mean": 60.352222222222224,
+    "max": 74,
+    "max_seconds": 20
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-03 19:00:00",
+    "min": 27,
+    "min_seconds": 57,
+    "mean": 37.17111111111111,
+    "max": 54,
+    "max_seconds": 22
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-03 19:30:00",
+    "min": 13,
+    "min_seconds": 35,
+    "mean": 21.59611111111111,
+    "max": 33,
+    "max_seconds": 15
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-03 20:00:00",
+    "min": 9,
+    "min_seconds": 418,
+    "mean": 11.795555555555556,
+    "max": 17,
+    "max_seconds": 32
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-03 20:30:00",
+    "min": 7,
+    "min_seconds": 18,
+    "mean": 13.247777777777777,
+    "max": 17,
+    "max_seconds": 6
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-03 21:00:00",
+    "min": 11,
+    "min_seconds": 154,
+    "mean": 14.435,
+    "max": 23,
+    "max_seconds": 37
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-03 21:30:00",
+    "min": 4,
+    "min_seconds": 50,
+    "mean": 8.074444444444444,
+    "max": 12,
+    "max_seconds": 81
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-03 22:00:00",
+    "min": 2,
+    "min_seconds": 728,
+    "mean": 2.875,
+    "max": 4,
+    "max_seconds": 503
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-03 22:30:00",
+    "min": 2,
+    "min_seconds": 565,
+    "mean": 3.2644444444444445,
+    "max": 10,
+    "max_seconds": 78
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-03 23:00:00",
+    "min": 2,
+    "min_seconds": 75,
+    "mean": 5.012222222222222,
+    "max": 8,
+    "max_seconds": 162
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-03 23:30:00",
+    "min": 2,
+    "min_seconds": 219,
+    "mean": 4.212777777777778,
+    "max": 7,
+    "max_seconds": 1
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-04 00:00:00",
+    "min": 2,
+    "min_seconds": 1509,
+    "mean": 2.1616666666666666,
+    "max": 3,
+    "max_seconds": 291
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-04 00:30:00",
+    "min": 2,
+    "min_seconds": 1178,
+    "mean": 2.3455555555555554,
+    "max": 3,
+    "max_seconds": 622
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-04 01:00:00",
+    "min": 1,
+    "min_seconds": 120,
+    "mean": 2.056111111111111,
+    "max": 3,
+    "max_seconds": 221
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-04 01:30:00",
+    "min": 0,
+    "min_seconds": 1163,
+    "mean": 0.35388888888888886,
+    "max": 1,
+    "max_seconds": 637
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-04 02:00:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-04 02:30:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-04 03:00:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-04 03:30:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-04 04:00:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-04 04:30:00",
+    "min": 0,
+    "min_seconds": 1159,
+    "mean": 0.3561111111111111,
+    "max": 1,
+    "max_seconds": 641
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-04 05:00:00",
+    "min": 0,
+    "min_seconds": 399,
+    "mean": 0.7783333333333333,
+    "max": 1,
+    "max_seconds": 1401
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-04 05:30:00",
+    "min": 0,
+    "min_seconds": 818,
+    "mean": 0.5455555555555556,
+    "max": 1,
+    "max_seconds": 982
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-04 06:00:00",
+    "min": 0,
+    "min_seconds": 248,
+    "mean": 2.1972222222222224,
+    "max": 5,
+    "max_seconds": 4
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-04 06:30:00",
+    "min": 3,
+    "min_seconds": 403,
+    "mean": 4.812222222222222,
+    "max": 8,
+    "max_seconds": 72
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-04 07:00:00",
+    "min": 5,
+    "min_seconds": 22,
+    "mean": 12.745555555555555,
+    "max": 22,
+    "max_seconds": 65
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-04 07:30:00",
+    "min": 17,
+    "min_seconds": 11,
+    "mean": 38.25888888888889,
+    "max": 58,
+    "max_seconds": 2
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-04 08:00:00",
+    "min": 56,
+    "min_seconds": 5,
+    "mean": 88.04333333333334,
+    "max": 116,
+    "max_seconds": 6
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-04 08:30:00",
+    "min": 113,
+    "min_seconds": 6,
+    "mean": 164.97555555555556,
+    "max": 207,
+    "max_seconds": 9
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-04 09:00:00",
+    "min": 206,
+    "min_seconds": 12,
+    "mean": 239.01166666666666,
+    "max": 282,
+    "max_seconds": 2
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-04 09:30:00",
+    "min": 265,
+    "min_seconds": 2,
+    "mean": 297.4427777777778,
+    "max": 320,
+    "max_seconds": 4
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-04 10:00:00",
+    "min": 287,
+    "min_seconds": 4,
+    "mean": 314.6227777777778,
+    "max": 343,
+    "max_seconds": 4
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-04 10:30:00",
+    "min": 286,
+    "min_seconds": 21,
+    "mean": 313.3011111111111,
+    "max": 331,
+    "max_seconds": 10
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-04 11:00:00",
+    "min": 293,
+    "min_seconds": 5,
+    "mean": 317.83444444444444,
+    "max": 337,
+    "max_seconds": 3
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-04 11:30:00",
+    "min": 290,
+    "min_seconds": 4,
+    "mean": 306.8566666666667,
+    "max": 324,
+    "max_seconds": 3
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-04 12:00:00",
+    "min": 223,
+    "min_seconds": 3,
+    "mean": 279.90055555555557,
+    "max": 326,
+    "max_seconds": 19
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-04 12:30:00",
+    "min": 220,
+    "min_seconds": 9,
+    "mean": 230.30444444444444,
+    "max": 242,
+    "max_seconds": 2
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-04 13:00:00",
+    "min": 223,
+    "min_seconds": 5,
+    "mean": 240.19944444444445,
+    "max": 257,
+    "max_seconds": 1
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-04 13:30:00",
+    "min": 257,
+    "min_seconds": 1,
+    "mean": 284.65777777777777,
+    "max": 299,
+    "max_seconds": 1
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-04 14:00:00",
+    "min": 272,
+    "min_seconds": 2,
+    "mean": 286.06111111111113,
+    "max": 300,
+    "max_seconds": 2
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-04 14:30:00",
+    "min": 292,
+    "min_seconds": 6,
+    "mean": 311.0111111111111,
+    "max": 324,
+    "max_seconds": 1
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-04 15:00:00",
+    "min": 285,
+    "min_seconds": 12,
+    "mean": 309.1616666666667,
+    "max": 324,
+    "max_seconds": 7
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-04 15:30:00",
+    "min": 288,
+    "min_seconds": 2,
+    "mean": 303.8433333333333,
+    "max": 322,
+    "max_seconds": 7
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-04 16:00:00",
+    "min": 237,
+    "min_seconds": 3,
+    "mean": 279.46444444444444,
+    "max": 302,
+    "max_seconds": 2
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-04 16:30:00",
+    "min": 199,
+    "min_seconds": 8,
+    "mean": 234.86777777777777,
+    "max": 257,
+    "max_seconds": 4
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-04 17:00:00",
+    "min": 137,
+    "min_seconds": 12,
+    "mean": 169.21333333333334,
+    "max": 200,
+    "max_seconds": 4
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-04 17:30:00",
+    "min": 84,
+    "min_seconds": 40,
+    "mean": 106.15611111111112,
+    "max": 141,
+    "max_seconds": 6
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-04 18:00:00",
+    "min": 49,
+    "min_seconds": 21,
+    "mean": 67.90833333333333,
+    "max": 91,
+    "max_seconds": 23
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-04 18:30:00",
+    "min": 22,
+    "min_seconds": 10,
+    "mean": 36.16222222222222,
+    "max": 55,
+    "max_seconds": 64
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-04 19:00:00",
+    "min": 16,
+    "min_seconds": 30,
+    "mean": 20.509444444444444,
+    "max": 27,
+    "max_seconds": 50
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-04 19:30:00",
+    "min": 11,
+    "min_seconds": 36,
+    "mean": 15.402222222222223,
+    "max": 22,
+    "max_seconds": 53
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-04 20:00:00",
+    "min": 7,
+    "min_seconds": 41,
+    "mean": 12.68,
+    "max": 19,
+    "max_seconds": 169
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-04 20:30:00",
+    "min": 8,
+    "min_seconds": 456,
+    "mean": 10.088888888888889,
+    "max": 15,
+    "max_seconds": 48
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-04 21:00:00",
+    "min": 8,
+    "min_seconds": 301,
+    "mean": 10.555,
+    "max": 14,
+    "max_seconds": 45
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-04 21:30:00",
+    "min": 10,
+    "min_seconds": 298,
+    "mean": 11.831111111111111,
+    "max": 14,
+    "max_seconds": 125
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-04 22:00:00",
+    "min": 6,
+    "min_seconds": 74,
+    "mean": 7.878888888888889,
+    "max": 11,
+    "max_seconds": 3
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-04 22:30:00",
+    "min": 4,
+    "min_seconds": 327,
+    "mean": 5.474444444444444,
+    "max": 8,
+    "max_seconds": 29
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-04 23:00:00",
+    "min": 3,
+    "min_seconds": 499,
+    "mean": 4.507777777777778,
+    "max": 9,
+    "max_seconds": 4
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-04 23:30:00",
+    "min": 2,
+    "min_seconds": 728,
+    "mean": 2.5955555555555554,
+    "max": 3,
+    "max_seconds": 1072
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-07 00:00:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-07 00:30:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-07 01:00:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-07 01:30:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-07 02:00:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-07 02:30:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-07 03:00:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-07 03:30:00",
+    "min": 0,
+    "min_seconds": 1656,
+    "mean": 0.08,
+    "max": 1,
+    "max_seconds": 144
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-07 04:00:00",
+    "min": 0,
+    "min_seconds": 1096,
+    "mean": 0.39111111111111113,
+    "max": 1,
+    "max_seconds": 704
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-07 04:30:00",
+    "min": 0,
+    "min_seconds": 1609,
+    "mean": 0.10611111111111111,
+    "max": 1,
+    "max_seconds": 191
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-07 05:00:00",
+    "min": 0,
+    "min_seconds": 295,
+    "mean": 1.1105555555555555,
+    "max": 2,
+    "max_seconds": 494
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-07 05:30:00",
+    "min": 0,
+    "min_seconds": 30,
+    "mean": 1.7955555555555556,
+    "max": 3,
+    "max_seconds": 169
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-07 06:00:00",
+    "min": 2,
+    "min_seconds": 140,
+    "mean": 3.9316666666666666,
+    "max": 6,
+    "max_seconds": 39
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-07 06:30:00",
+    "min": 4,
+    "min_seconds": 28,
+    "mean": 6.918888888888889,
+    "max": 13,
+    "max_seconds": 20
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-07 07:00:00",
+    "min": 12,
+    "min_seconds": 35,
+    "mean": 20.84111111111111,
+    "max": 32,
+    "max_seconds": 20
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-07 07:30:00",
+    "min": 28,
+    "min_seconds": 37,
+    "mean": 51.295,
+    "max": 75,
+    "max_seconds": 1
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-07 08:00:00",
+    "min": 73,
+    "min_seconds": 11,
+    "mean": 103.565,
+    "max": 150,
+    "max_seconds": 1
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-07 08:30:00",
+    "min": 147,
+    "min_seconds": 2,
+    "mean": 178.09333333333333,
+    "max": 213,
+    "max_seconds": 7
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-07 09:00:00",
+    "min": 194,
+    "min_seconds": 2,
+    "mean": 255.58444444444444,
+    "max": 292,
+    "max_seconds": 5
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-07 09:30:00",
+    "min": 289,
+    "min_seconds": 9,
+    "mean": 315.8977777777778,
+    "max": 347,
+    "max_seconds": 7
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-07 10:00:00",
+    "min": 322,
+    "min_seconds": 2,
+    "mean": 342.0227777777778,
+    "max": 373,
+    "max_seconds": 7
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-07 10:30:00",
+    "min": 335,
+    "min_seconds": 2,
+    "mean": 357.4,
+    "max": 387,
+    "max_seconds": 2
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-07 11:00:00",
+    "min": 344,
+    "min_seconds": 4,
+    "mean": 364.365,
+    "max": 384,
+    "max_seconds": 3
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-07 11:30:00",
+    "min": 344,
+    "min_seconds": 2,
+    "mean": 364.2655555555556,
+    "max": 388,
+    "max_seconds": 1
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-07 12:00:00",
+    "min": 283,
+    "min_seconds": 9,
+    "mean": 320.1188888888889,
+    "max": 355,
+    "max_seconds": 2
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-07 12:30:00",
+    "min": 261,
+    "min_seconds": 13,
+    "mean": 277.11833333333334,
+    "max": 296,
+    "max_seconds": 8
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-07 13:00:00",
+    "min": 265,
+    "min_seconds": 4,
+    "mean": 293.22277777777776,
+    "max": 328,
+    "max_seconds": 2
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-07 13:30:00",
+    "min": 311,
+    "min_seconds": 5,
+    "mean": 337.31444444444446,
+    "max": 370,
+    "max_seconds": 10
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-07 14:00:00",
+    "min": 346,
+    "min_seconds": 2,
+    "mean": 365.4411111111111,
+    "max": 388,
+    "max_seconds": 4
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-07 14:30:00",
+    "min": 351,
+    "min_seconds": 2,
+    "mean": 377.0238888888889,
+    "max": 406,
+    "max_seconds": 17
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-07 15:00:00",
+    "min": 344,
+    "min_seconds": 2,
+    "mean": 369.2916666666667,
+    "max": 387,
+    "max_seconds": 1
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-07 15:30:00",
+    "min": 339,
+    "min_seconds": 1,
+    "mean": 357.37055555555554,
+    "max": 381,
+    "max_seconds": 1
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-07 16:00:00",
+    "min": 305,
+    "min_seconds": 1,
+    "mean": 333.81555555555553,
+    "max": 358,
+    "max_seconds": 1
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-07 16:30:00",
+    "min": 255,
+    "min_seconds": 12,
+    "mean": 295.18944444444446,
+    "max": 325,
+    "max_seconds": 5
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-07 17:00:00",
+    "min": 166,
+    "min_seconds": 3,
+    "mean": 229.8311111111111,
+    "max": 276,
+    "max_seconds": 1
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-07 17:30:00",
+    "min": 112,
+    "min_seconds": 10,
+    "mean": 140.11277777777778,
+    "max": 170,
+    "max_seconds": 3
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-07 18:00:00",
+    "min": 73,
+    "min_seconds": 2,
+    "mean": 89.33833333333334,
+    "max": 112,
+    "max_seconds": 5
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-07 18:30:00",
+    "min": 36,
+    "min_seconds": 3,
+    "mean": 55.65888888888889,
+    "max": 78,
+    "max_seconds": 7
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-07 19:00:00",
+    "min": 29,
+    "min_seconds": 18,
+    "mean": 37.55277777777778,
+    "max": 46,
+    "max_seconds": 5
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-07 19:30:00",
+    "min": 18,
+    "min_seconds": 19,
+    "mean": 25.74277777777778,
+    "max": 29,
+    "max_seconds": 108
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-07 20:00:00",
+    "min": 12,
+    "min_seconds": 32,
+    "mean": 16.050555555555555,
+    "max": 20,
+    "max_seconds": 22
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-07 20:30:00",
+    "min": 7,
+    "min_seconds": 100,
+    "mean": 10.466111111111111,
+    "max": 16,
+    "max_seconds": 20
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-07 21:00:00",
+    "min": 7,
+    "min_seconds": 21,
+    "mean": 14.967777777777778,
+    "max": 42,
+    "max_seconds": 22
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-07 21:30:00",
+    "min": 5,
+    "min_seconds": 142,
+    "mean": 10.087222222222222,
+    "max": 26,
+    "max_seconds": 38
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-07 22:00:00",
+    "min": 2,
+    "min_seconds": 275,
+    "mean": 5.655,
+    "max": 10,
+    "max_seconds": 67
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-07 22:30:00",
+    "min": 1,
+    "min_seconds": 192,
+    "mean": 3.117777777777778,
+    "max": 7,
+    "max_seconds": 82
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-07 23:00:00",
+    "min": 2,
+    "min_seconds": 58,
+    "mean": 4.209444444444444,
+    "max": 6,
+    "max_seconds": 261
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-07 23:30:00",
+    "min": 3,
+    "min_seconds": 86,
+    "mean": 4.524444444444445,
+    "max": 6,
+    "max_seconds": 311
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-08 00:00:00",
+    "min": 2,
+    "min_seconds": 768,
+    "mean": 2.6577777777777776,
+    "max": 4,
+    "max_seconds": 152
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-08 00:30:00",
+    "min": 2,
+    "min_seconds": 1604,
+    "mean": 2.108888888888889,
+    "max": 3,
+    "max_seconds": 196
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-08 01:00:00",
+    "min": 1,
+    "min_seconds": 704,
+    "mean": 1.6088888888888888,
+    "max": 2,
+    "max_seconds": 1096
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-08 01:30:00",
+    "min": 1,
+    "min_seconds": 1800,
+    "mean": 1,
+    "max": 1,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-08 02:00:00",
+    "min": 1,
+    "min_seconds": 661,
+    "mean": 1.6327777777777779,
+    "max": 2,
+    "max_seconds": 1139
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-08 02:30:00",
+    "min": 2,
+    "min_seconds": 1800,
+    "mean": 2,
+    "max": 2,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-08 03:00:00",
+    "min": 1,
+    "min_seconds": 499,
+    "mean": 1.7227777777777777,
+    "max": 2,
+    "max_seconds": 1301
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-08 03:30:00",
+    "min": 1,
+    "min_seconds": 1800,
+    "mean": 1,
+    "max": 1,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-08 04:00:00",
+    "min": 1,
+    "min_seconds": 1800,
+    "mean": 1,
+    "max": 1,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-08 04:30:00",
+    "min": 0,
+    "min_seconds": 1707,
+    "mean": 0.051666666666666666,
+    "max": 1,
+    "max_seconds": 93
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-08 05:00:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-08 05:30:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-08 06:00:00",
+    "min": 0,
+    "min_seconds": 182,
+    "mean": 1.325,
+    "max": 3,
+    "max_seconds": 83
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-08 06:30:00",
+    "min": 1,
+    "min_seconds": 42,
+    "mean": 4.442777777777778,
+    "max": 8,
+    "max_seconds": 109
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-08 07:00:00",
+    "min": 4,
+    "min_seconds": 55,
+    "mean": 17.965555555555557,
+    "max": 38,
+    "max_seconds": 14
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-08 07:30:00",
+    "min": 30,
+    "min_seconds": 1,
+    "mean": 47.943333333333335,
+    "max": 83,
+    "max_seconds": 23
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-08 08:00:00",
+    "min": 75,
+    "min_seconds": 1,
+    "mean": 98.81444444444445,
+    "max": 148,
+    "max_seconds": 2
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-08 08:30:00",
+    "min": 146,
+    "min_seconds": 12,
+    "mean": 189.0861111111111,
+    "max": 249,
+    "max_seconds": 1
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-08 09:00:00",
+    "min": 211,
+    "min_seconds": 1,
+    "mean": 247.05166666666668,
+    "max": 281,
+    "max_seconds": 1
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-08 09:30:00",
+    "min": 257,
+    "min_seconds": 3,
+    "mean": 278.7688888888889,
+    "max": 295,
+    "max_seconds": 6
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-08 10:00:00",
+    "min": 293,
+    "min_seconds": 2,
+    "mean": 314.97444444444443,
+    "max": 333,
+    "max_seconds": 2
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-08 10:30:00",
+    "min": 315,
+    "min_seconds": 12,
+    "mean": 333.51166666666666,
+    "max": 359,
+    "max_seconds": 1
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-08 11:00:00",
+    "min": 321,
+    "min_seconds": 13,
+    "mean": 342.4838888888889,
+    "max": 359,
+    "max_seconds": 2
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-08 11:30:00",
+    "min": 324,
+    "min_seconds": 3,
+    "mean": 343.76666666666665,
+    "max": 364,
+    "max_seconds": 3
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-08 12:00:00",
+    "min": 251,
+    "min_seconds": 1,
+    "mean": 307.03833333333336,
+    "max": 341,
+    "max_seconds": 1
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-08 12:30:00",
+    "min": 251,
+    "min_seconds": 18,
+    "mean": 268.1461111111111,
+    "max": 291,
+    "max_seconds": 2
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-08 13:00:00",
+    "min": 280,
+    "min_seconds": 1,
+    "mean": 296.8022222222222,
+    "max": 312,
+    "max_seconds": 4
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-08 13:30:00",
+    "min": 292,
+    "min_seconds": 2,
+    "mean": 327.7477777777778,
+    "max": 350,
+    "max_seconds": 14
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-08 14:00:00",
+    "min": 295,
+    "min_seconds": 11,
+    "mean": 317.40166666666664,
+    "max": 338,
+    "max_seconds": 2
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-08 14:30:00",
+    "min": 302,
+    "min_seconds": 4,
+    "mean": 313.4122222222222,
+    "max": 326,
+    "max_seconds": 2
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-08 15:00:00",
+    "min": 304,
+    "min_seconds": 3,
+    "mean": 318.905,
+    "max": 340,
+    "max_seconds": 1
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-08 15:30:00",
+    "min": 292,
+    "min_seconds": 4,
+    "mean": 311.97222222222223,
+    "max": 335,
+    "max_seconds": 1
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-08 16:00:00",
+    "min": 269,
+    "min_seconds": 4,
+    "mean": 289.5488888888889,
+    "max": 313,
+    "max_seconds": 1
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-08 16:30:00",
+    "min": 218,
+    "min_seconds": 2,
+    "mean": 245.65555555555557,
+    "max": 270,
+    "max_seconds": 4
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-08 17:00:00",
+    "min": 152,
+    "min_seconds": 5,
+    "mean": 187.64444444444445,
+    "max": 226,
+    "max_seconds": 4
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-08 17:30:00",
+    "min": 96,
+    "min_seconds": 9,
+    "mean": 118.80166666666666,
+    "max": 155,
+    "max_seconds": 3
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-08 18:00:00",
+    "min": 60,
+    "min_seconds": 14,
+    "mean": 79.33333333333333,
+    "max": 99,
+    "max_seconds": 12
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-08 18:30:00",
+    "min": 38,
+    "min_seconds": 4,
+    "mean": 51.153333333333336,
+    "max": 74,
+    "max_seconds": 10
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-08 19:00:00",
+    "min": 31,
+    "min_seconds": 30,
+    "mean": 36.90777777777778,
+    "max": 45,
+    "max_seconds": 4
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-08 19:30:00",
+    "min": 26,
+    "min_seconds": 74,
+    "mean": 30.988888888888887,
+    "max": 40,
+    "max_seconds": 14
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-08 20:00:00",
+    "min": 26,
+    "min_seconds": 71,
+    "mean": 29.150555555555556,
+    "max": 34,
+    "max_seconds": 8
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-08 20:30:00",
+    "min": 21,
+    "min_seconds": 220,
+    "mean": 26.326666666666668,
+    "max": 34,
+    "max_seconds": 4
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-08 21:00:00",
+    "min": 14,
+    "min_seconds": 124,
+    "mean": 17.023333333333333,
+    "max": 21,
+    "max_seconds": 212
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-08 21:30:00",
+    "min": 9,
+    "min_seconds": 101,
+    "mean": 13.283333333333333,
+    "max": 17,
+    "max_seconds": 264
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-08 22:00:00",
+    "min": 1,
+    "min_seconds": 171,
+    "mean": 6.2411111111111115,
+    "max": 15,
+    "max_seconds": 92
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-08 22:30:00",
+    "min": 1,
+    "min_seconds": 518,
+    "mean": 1.7122222222222223,
+    "max": 2,
+    "max_seconds": 1282
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-08 23:00:00",
+    "min": 1,
+    "min_seconds": 482,
+    "mean": 2.7,
+    "max": 5,
+    "max_seconds": 241
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-08 23:30:00",
+    "min": 1,
+    "min_seconds": 14,
+    "mean": 2.3544444444444443,
+    "max": 5,
+    "max_seconds": 43
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-09 00:00:00",
+    "min": 2,
+    "min_seconds": 828,
+    "mean": 2.54,
+    "max": 3,
+    "max_seconds": 972
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-09 00:30:00",
+    "min": 2,
+    "min_seconds": 1800,
+    "mean": 2,
+    "max": 2,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-09 01:00:00",
+    "min": 1,
+    "min_seconds": 1549,
+    "mean": 1.1394444444444445,
+    "max": 2,
+    "max_seconds": 251
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-09 01:30:00",
+    "min": 1,
+    "min_seconds": 1800,
+    "mean": 1,
+    "max": 1,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-09 02:00:00",
+    "min": 0,
+    "min_seconds": 198,
+    "mean": 0.89,
+    "max": 1,
+    "max_seconds": 1602
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-09 02:30:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-09 03:00:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-09 03:30:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-09 04:00:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-09 04:30:00",
+    "min": 0,
+    "min_seconds": 1673,
+    "mean": 0.07055555555555555,
+    "max": 1,
+    "max_seconds": 127
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-09 05:00:00",
+    "min": 0,
+    "min_seconds": 431,
+    "mean": 0.7605555555555555,
+    "max": 1,
+    "max_seconds": 1369
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-09 05:30:00",
+    "min": 1,
+    "min_seconds": 711,
+    "mean": 1.605,
+    "max": 2,
+    "max_seconds": 1089
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-09 06:00:00",
+    "min": 2,
+    "min_seconds": 255,
+    "mean": 4.053888888888889,
+    "max": 7,
+    "max_seconds": 31
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-09 06:30:00",
+    "min": 3,
+    "min_seconds": 208,
+    "mean": 5.943888888888889,
+    "max": 11,
+    "max_seconds": 53
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-09 07:00:00",
+    "min": 7,
+    "min_seconds": 54,
+    "mean": 16.057777777777776,
+    "max": 26,
+    "max_seconds": 21
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-09 07:30:00",
+    "min": 22,
+    "min_seconds": 7,
+    "mean": 51.31611111111111,
+    "max": 82,
+    "max_seconds": 23
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-09 08:00:00",
+    "min": 78,
+    "min_seconds": 6,
+    "mean": 108.20111111111112,
+    "max": 151,
+    "max_seconds": 6
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-09 08:30:00",
+    "min": 142,
+    "min_seconds": 3,
+    "mean": 190.6838888888889,
+    "max": 235,
+    "max_seconds": 16
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-09 09:00:00",
+    "min": 228,
+    "min_seconds": 10,
+    "mean": 256.1016666666667,
+    "max": 294,
+    "max_seconds": 2
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-09 09:30:00",
+    "min": 285,
+    "min_seconds": 4,
+    "mean": 310.9211111111111,
+    "max": 340,
+    "max_seconds": 4
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-09 10:00:00",
+    "min": 303,
+    "min_seconds": 10,
+    "mean": 317.4527777777778,
+    "max": 339,
+    "max_seconds": 8
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-09 10:30:00",
+    "min": 313,
+    "min_seconds": 1,
+    "mean": 333.6661111111111,
+    "max": 354,
+    "max_seconds": 2
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-09 11:00:00",
+    "min": 309,
+    "min_seconds": 4,
+    "mean": 336.71722222222223,
+    "max": 364,
+    "max_seconds": 1
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-09 11:30:00",
+    "min": 317,
+    "min_seconds": 1,
+    "mean": 335.05611111111114,
+    "max": 355,
+    "max_seconds": 2
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-09 12:00:00",
+    "min": 238,
+    "min_seconds": 8,
+    "mean": 270.5938888888889,
+    "max": 326,
+    "max_seconds": 1
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-09 12:30:00",
+    "min": 224,
+    "min_seconds": 1,
+    "mean": 250.0611111111111,
+    "max": 282,
+    "max_seconds": 3
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-09 13:00:00",
+    "min": 277,
+    "min_seconds": 1,
+    "mean": 310.2261111111111,
+    "max": 335,
+    "max_seconds": 5
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-09 13:30:00",
+    "min": 306,
+    "min_seconds": 2,
+    "mean": 322.0966666666667,
+    "max": 348,
+    "max_seconds": 5
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-09 14:00:00",
+    "min": 325,
+    "min_seconds": 2,
+    "mean": 340.7683333333333,
+    "max": 353,
+    "max_seconds": 7
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-09 14:30:00",
+    "min": 334,
+    "min_seconds": 5,
+    "mean": 352.81111111111113,
+    "max": 376,
+    "max_seconds": 11
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-09 15:00:00",
+    "min": 337,
+    "min_seconds": 5,
+    "mean": 353.6311111111111,
+    "max": 371,
+    "max_seconds": 1
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-09 15:30:00",
+    "min": 334,
+    "min_seconds": 11,
+    "mean": 353.9188888888889,
+    "max": 372,
+    "max_seconds": 3
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-09 16:00:00",
+    "min": 318,
+    "min_seconds": 2,
+    "mean": 332.83444444444444,
+    "max": 344,
+    "max_seconds": 1
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-09 16:30:00",
+    "min": 256,
+    "min_seconds": 2,
+    "mean": 288.4377777777778,
+    "max": 334,
+    "max_seconds": 1
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-09 17:00:00",
+    "min": 190,
+    "min_seconds": 14,
+    "mean": 221.24333333333334,
+    "max": 259,
+    "max_seconds": 2
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-09 17:30:00",
+    "min": 126,
+    "min_seconds": 6,
+    "mean": 163.7577777777778,
+    "max": 202,
+    "max_seconds": 2
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-09 18:00:00",
+    "min": 92,
+    "min_seconds": 10,
+    "mean": 112.36611111111111,
+    "max": 133,
+    "max_seconds": 32
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-09 18:30:00",
+    "min": 52,
+    "min_seconds": 18,
+    "mean": 74.94388888888889,
+    "max": 97,
+    "max_seconds": 19
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-09 19:00:00",
+    "min": 46,
+    "min_seconds": 52,
+    "mean": 50.85722222222222,
+    "max": 58,
+    "max_seconds": 20
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-09 19:30:00",
+    "min": 24,
+    "min_seconds": 1,
+    "mean": 36.315,
+    "max": 53,
+    "max_seconds": 8
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-09 20:00:00",
+    "min": 13,
+    "min_seconds": 27,
+    "mean": 20.963333333333335,
+    "max": 31,
+    "max_seconds": 15
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-09 20:30:00",
+    "min": 10,
+    "min_seconds": 4,
+    "mean": 16.898333333333333,
+    "max": 23,
+    "max_seconds": 39
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-09 21:00:00",
+    "min": 13,
+    "min_seconds": 147,
+    "mean": 14.745555555555555,
+    "max": 16,
+    "max_seconds": 452
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-09 21:30:00",
+    "min": 8,
+    "min_seconds": 36,
+    "mean": 11.112222222222222,
+    "max": 15,
+    "max_seconds": 65
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-09 22:00:00",
+    "min": 8,
+    "min_seconds": 361,
+    "mean": 9.182222222222222,
+    "max": 12,
+    "max_seconds": 49
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-09 22:30:00",
+    "min": 3,
+    "min_seconds": 197,
+    "mean": 7.998333333333333,
+    "max": 13,
+    "max_seconds": 79
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-09 23:00:00",
+    "min": 3,
+    "min_seconds": 113,
+    "mean": 8.45,
+    "max": 17,
+    "max_seconds": 39
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-09 23:30:00",
+    "min": 1,
+    "min_seconds": 280,
+    "mean": 3.812777777777778,
+    "max": 7,
+    "max_seconds": 60
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-10 00:00:00",
+    "min": 0,
+    "min_seconds": 469,
+    "mean": 0.7844444444444445,
+    "max": 2,
+    "max_seconds": 81
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-10 00:30:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-10 01:00:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-10 01:30:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-10 02:00:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-10 02:30:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-10 03:00:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-10 03:30:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-10 04:00:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-10 04:30:00",
+    "min": 0,
+    "min_seconds": 1123,
+    "mean": 0.3761111111111111,
+    "max": 1,
+    "max_seconds": 677
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-10 05:00:00",
+    "min": 0,
+    "min_seconds": 601,
+    "mean": 0.6661111111111111,
+    "max": 1,
+    "max_seconds": 1199
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-10 05:30:00",
+    "min": 0,
+    "min_seconds": 562,
+    "mean": 0.9133333333333333,
+    "max": 2,
+    "max_seconds": 406
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-10 06:00:00",
+    "min": 1,
+    "min_seconds": 317,
+    "mean": 3.3644444444444446,
+    "max": 7,
+    "max_seconds": 148
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-10 06:30:00",
+    "min": 6,
+    "min_seconds": 118,
+    "mean": 9.018888888888888,
+    "max": 12,
+    "max_seconds": 61
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-10 07:00:00",
+    "min": 10,
+    "min_seconds": 55,
+    "mean": 19.785,
+    "max": 30,
+    "max_seconds": 4
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-10 07:30:00",
+    "min": 26,
+    "min_seconds": 8,
+    "mean": 53.12611111111111,
+    "max": 78,
+    "max_seconds": 31
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-10 08:00:00",
+    "min": 64,
+    "min_seconds": 5,
+    "mean": 98.7761111111111,
+    "max": 148,
+    "max_seconds": 1
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-10 08:30:00",
+    "min": 143,
+    "min_seconds": 11,
+    "mean": 179.0377777777778,
+    "max": 230,
+    "max_seconds": 5
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-10 09:00:00",
+    "min": 225,
+    "min_seconds": 7,
+    "mean": 263.1116666666667,
+    "max": 305,
+    "max_seconds": 6
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-10 09:30:00",
+    "min": 283,
+    "min_seconds": 2,
+    "mean": 315.185,
+    "max": 340,
+    "max_seconds": 1
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-10 10:00:00",
+    "min": 293,
+    "min_seconds": 1,
+    "mean": 318.8811111111111,
+    "max": 334,
+    "max_seconds": 8
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-10 10:30:00",
+    "min": 312,
+    "min_seconds": 2,
+    "mean": 330.28333333333336,
+    "max": 354,
+    "max_seconds": 3
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-10 11:00:00",
+    "min": 320,
+    "min_seconds": 1,
+    "mean": 341.37555555555554,
+    "max": 361,
+    "max_seconds": 7
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-10 11:30:00",
+    "min": 317,
+    "min_seconds": 6,
+    "mean": 334.2683333333333,
+    "max": 347,
+    "max_seconds": 4
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-10 12:00:00",
+    "min": 254,
+    "min_seconds": 11,
+    "mean": 290.0511111111111,
+    "max": 325,
+    "max_seconds": 2
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-10 12:30:00",
+    "min": 231,
+    "min_seconds": 4,
+    "mean": 243.23444444444445,
+    "max": 259,
+    "max_seconds": 3
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-10 13:00:00",
+    "min": 230,
+    "min_seconds": 5,
+    "mean": 274.5388888888889,
+    "max": 306,
+    "max_seconds": 3
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-10 13:30:00",
+    "min": 275,
+    "min_seconds": 3,
+    "mean": 310.565,
+    "max": 344,
+    "max_seconds": 15
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-10 14:00:00",
+    "min": 307,
+    "min_seconds": 3,
+    "mean": 326.55833333333334,
+    "max": 349,
+    "max_seconds": 5
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-10 14:30:00",
+    "min": 324,
+    "min_seconds": 3,
+    "mean": 335.71444444444444,
+    "max": 348,
+    "max_seconds": 4
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-10 15:00:00",
+    "min": 311,
+    "min_seconds": 2,
+    "mean": 331.38944444444445,
+    "max": 348,
+    "max_seconds": 2
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-10 15:30:00",
+    "min": 301,
+    "min_seconds": 3,
+    "mean": 323.8977777777778,
+    "max": 349,
+    "max_seconds": 15
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-10 16:00:00",
+    "min": 306,
+    "min_seconds": 3,
+    "mean": 322.1166666666667,
+    "max": 342,
+    "max_seconds": 1
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-10 16:30:00",
+    "min": 230,
+    "min_seconds": 5,
+    "mean": 273.7105555555556,
+    "max": 314,
+    "max_seconds": 6
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-10 17:00:00",
+    "min": 160,
+    "min_seconds": 3,
+    "mean": 195.45222222222222,
+    "max": 234,
+    "max_seconds": 2
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-10 17:30:00",
+    "min": 105,
+    "min_seconds": 7,
+    "mean": 142.98888888888888,
+    "max": 177,
+    "max_seconds": 3
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-10 18:00:00",
+    "min": 74,
+    "min_seconds": 10,
+    "mean": 91.67888888888889,
+    "max": 112,
+    "max_seconds": 7
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-10 18:30:00",
+    "min": 50,
+    "min_seconds": 20,
+    "mean": 62.95111111111111,
+    "max": 84,
+    "max_seconds": 4
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-10 19:00:00",
+    "min": 32,
+    "min_seconds": 3,
+    "mean": 41.88333333333333,
+    "max": 56,
+    "max_seconds": 6
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-10 19:30:00",
+    "min": 30,
+    "min_seconds": 120,
+    "mean": 35.056666666666665,
+    "max": 42,
+    "max_seconds": 13
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-10 20:00:00",
+    "min": 27,
+    "min_seconds": 5,
+    "mean": 34.53277777777778,
+    "max": 41,
+    "max_seconds": 68
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-10 20:30:00",
+    "min": 21,
+    "min_seconds": 51,
+    "mean": 27.122222222222224,
+    "max": 33,
+    "max_seconds": 110
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-10 21:00:00",
+    "min": 12,
+    "min_seconds": 227,
+    "mean": 13.95111111111111,
+    "max": 21,
+    "max_seconds": 1
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-10 21:30:00",
+    "min": 9,
+    "min_seconds": 356,
+    "mean": 10.962222222222222,
+    "max": 13,
+    "max_seconds": 577
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-10 22:00:00",
+    "min": 2,
+    "min_seconds": 40,
+    "mean": 8.040555555555555,
+    "max": 12,
+    "max_seconds": 315
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-10 22:30:00",
+    "min": 1,
+    "min_seconds": 1,
+    "mean": 4.060555555555555,
+    "max": 6,
+    "max_seconds": 51
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-10 23:00:00",
+    "min": 3,
+    "min_seconds": 420,
+    "mean": 4.113333333333333,
+    "max": 5,
+    "max_seconds": 624
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-10 23:30:00",
+    "min": 3,
+    "min_seconds": 829,
+    "mean": 3.87,
+    "max": 6,
+    "max_seconds": 35
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-11 00:00:00",
+    "min": 4,
+    "min_seconds": 166,
+    "mean": 4.907777777777778,
+    "max": 5,
+    "max_seconds": 1634
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-11 00:30:00",
+    "min": 3,
+    "min_seconds": 1705,
+    "mean": 3.0527777777777776,
+    "max": 4,
+    "max_seconds": 95
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-11 01:00:00",
+    "min": 2,
+    "min_seconds": 1025,
+    "mean": 2.4305555555555554,
+    "max": 3,
+    "max_seconds": 775
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-11 01:30:00",
+    "min": 1,
+    "min_seconds": 869,
+    "mean": 1.5172222222222222,
+    "max": 2,
+    "max_seconds": 931
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-11 02:00:00",
+    "min": 0,
+    "min_seconds": 1232,
+    "mean": 0.31555555555555553,
+    "max": 1,
+    "max_seconds": 568
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-11 02:30:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-11 03:00:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-11 03:30:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-11 04:00:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-11 04:30:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-11 05:00:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-11 05:30:00",
+    "min": 0,
+    "min_seconds": 1608,
+    "mean": 0.10666666666666667,
+    "max": 1,
+    "max_seconds": 192
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-11 06:00:00",
+    "min": 0,
+    "min_seconds": 92,
+    "mean": 1.7216666666666667,
+    "max": 4,
+    "max_seconds": 32
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-11 06:30:00",
+    "min": 4,
+    "min_seconds": 40,
+    "mean": 7.772222222222222,
+    "max": 12,
+    "max_seconds": 23
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-11 07:00:00",
+    "min": 8,
+    "min_seconds": 58,
+    "mean": 19.21388888888889,
+    "max": 30,
+    "max_seconds": 29
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-11 07:30:00",
+    "min": 25,
+    "min_seconds": 33,
+    "mean": 44.93888888888889,
+    "max": 72,
+    "max_seconds": 2
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-11 08:00:00",
+    "min": 68,
+    "min_seconds": 10,
+    "mean": 101.15777777777778,
+    "max": 135,
+    "max_seconds": 11
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-11 08:30:00",
+    "min": 126,
+    "min_seconds": 1,
+    "mean": 173.70444444444445,
+    "max": 205,
+    "max_seconds": 5
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-11 09:00:00",
+    "min": 194,
+    "min_seconds": 10,
+    "mean": 239.60111111111112,
+    "max": 276,
+    "max_seconds": 4
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-11 09:30:00",
+    "min": 262,
+    "min_seconds": 15,
+    "mean": 280.0111111111111,
+    "max": 310,
+    "max_seconds": 15
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-11 10:00:00",
+    "min": 279,
+    "min_seconds": 12,
+    "mean": 299.075,
+    "max": 320,
+    "max_seconds": 2
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-11 10:30:00",
+    "min": 278,
+    "min_seconds": 2,
+    "mean": 297.0516666666667,
+    "max": 311,
+    "max_seconds": 2
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-11 11:00:00",
+    "min": 283,
+    "min_seconds": 12,
+    "mean": 305.34277777777777,
+    "max": 321,
+    "max_seconds": 10
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-11 11:30:00",
+    "min": 280,
+    "min_seconds": 6,
+    "mean": 305.8466666666667,
+    "max": 331,
+    "max_seconds": 3
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-11 12:00:00",
+    "min": 205,
+    "min_seconds": 8,
+    "mean": 238.34777777777776,
+    "max": 286,
+    "max_seconds": 2
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-11 12:30:00",
+    "min": 208,
+    "min_seconds": 4,
+    "mean": 221.58,
+    "max": 237,
+    "max_seconds": 2
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-11 13:00:00",
+    "min": 222,
+    "min_seconds": 4,
+    "mean": 237.2722222222222,
+    "max": 262,
+    "max_seconds": 5
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-11 13:30:00",
+    "min": 244,
+    "min_seconds": 3,
+    "mean": 266.9244444444444,
+    "max": 285,
+    "max_seconds": 7
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-11 14:00:00",
+    "min": 259,
+    "min_seconds": 1,
+    "mean": 283.5522222222222,
+    "max": 304,
+    "max_seconds": 4
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-11 14:30:00",
+    "min": 271,
+    "min_seconds": 3,
+    "mean": 290.6672222222222,
+    "max": 312,
+    "max_seconds": 6
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-11 15:00:00",
+    "min": 244,
+    "min_seconds": 2,
+    "mean": 267.01722222222224,
+    "max": 289,
+    "max_seconds": 1
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-11 15:30:00",
+    "min": 260,
+    "min_seconds": 7,
+    "mean": 288.1022222222222,
+    "max": 303,
+    "max_seconds": 3
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-11 16:00:00",
+    "min": 243,
+    "min_seconds": 9,
+    "mean": 269.0338888888889,
+    "max": 290,
+    "max_seconds": 4
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-11 16:30:00",
+    "min": 205,
+    "min_seconds": 6,
+    "mean": 224.94666666666666,
+    "max": 264,
+    "max_seconds": 1
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-11 17:00:00",
+    "min": 135,
+    "min_seconds": 24,
+    "mean": 163.44944444444445,
+    "max": 212,
+    "max_seconds": 1
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-11 17:30:00",
+    "min": 75,
+    "min_seconds": 8,
+    "mean": 103.09222222222222,
+    "max": 138,
+    "max_seconds": 10
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-11 18:00:00",
+    "min": 51,
+    "min_seconds": 17,
+    "mean": 62.48111111111111,
+    "max": 81,
+    "max_seconds": 14
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-11 18:30:00",
+    "min": 23,
+    "min_seconds": 38,
+    "mean": 40.010555555555555,
+    "max": 60,
+    "max_seconds": 8
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-11 19:00:00",
+    "min": 26,
+    "min_seconds": 57,
+    "mean": 32.58833333333333,
+    "max": 38,
+    "max_seconds": 5
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-11 19:30:00",
+    "min": 11,
+    "min_seconds": 51,
+    "mean": 19.011666666666667,
+    "max": 30,
+    "max_seconds": 2
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-11 20:00:00",
+    "min": 9,
+    "min_seconds": 20,
+    "mean": 12.065,
+    "max": 17,
+    "max_seconds": 47
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-11 20:30:00",
+    "min": 5,
+    "min_seconds": 230,
+    "mean": 7.643888888888889,
+    "max": 10,
+    "max_seconds": 149
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-11 21:00:00",
+    "min": 1,
+    "min_seconds": 619,
+    "mean": 2.6544444444444446,
+    "max": 6,
+    "max_seconds": 87
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-11 21:30:00",
+    "min": 0,
+    "min_seconds": 141,
+    "mean": 2.192222222222222,
+    "max": 5,
+    "max_seconds": 20
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-11 22:00:00",
+    "min": 0,
+    "min_seconds": 626,
+    "mean": 1.3055555555555556,
+    "max": 3,
+    "max_seconds": 53
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-11 22:30:00",
+    "min": 2,
+    "min_seconds": 48,
+    "mean": 4.232222222222222,
+    "max": 9,
+    "max_seconds": 57
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-11 23:00:00",
+    "min": 1,
+    "min_seconds": 112,
+    "mean": 3.1727777777777777,
+    "max": 4,
+    "max_seconds": 803
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-11 23:30:00",
+    "min": 2,
+    "min_seconds": 652,
+    "mean": 2.817222222222222,
+    "max": 4,
+    "max_seconds": 323
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-14 00:00:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-14 00:30:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-14 01:00:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-14 01:30:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-14 02:00:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-14 02:30:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-14 03:00:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-14 03:30:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-14 04:00:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-14 04:30:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-14 05:00:00",
+    "min": 0,
+    "min_seconds": 1105,
+    "mean": 0.3861111111111111,
+    "max": 1,
+    "max_seconds": 695
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-14 05:30:00",
+    "min": 1,
+    "min_seconds": 1430,
+    "mean": 1.255,
+    "max": 3,
+    "max_seconds": 89
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-14 06:00:00",
+    "min": 3,
+    "min_seconds": 192,
+    "mean": 4.751111111111111,
+    "max": 7,
+    "max_seconds": 205
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-14 06:30:00",
+    "min": 5,
+    "min_seconds": 212,
+    "mean": 8.287222222222223,
+    "max": 13,
+    "max_seconds": 115
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-14 07:00:00",
+    "min": 9,
+    "min_seconds": 52,
+    "mean": 22.79722222222222,
+    "max": 38,
+    "max_seconds": 12
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-14 07:30:00",
+    "min": 36,
+    "min_seconds": 6,
+    "mean": 53.11666666666667,
+    "max": 73,
+    "max_seconds": 40
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-14 08:00:00",
+    "min": 65,
+    "min_seconds": 4,
+    "mean": 90.35833333333333,
+    "max": 137,
+    "max_seconds": 11
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-14 08:30:00",
+    "min": 133,
+    "min_seconds": 12,
+    "mean": 173.82666666666665,
+    "max": 208,
+    "max_seconds": 1
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-14 09:00:00",
+    "min": 194,
+    "min_seconds": 4,
+    "mean": 262.77666666666664,
+    "max": 310,
+    "max_seconds": 7
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-14 09:30:00",
+    "min": 239,
+    "min_seconds": 6,
+    "mean": 265.5577777777778,
+    "max": 313,
+    "max_seconds": 1
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-14 10:00:00",
+    "min": 264,
+    "min_seconds": 4,
+    "mean": 327.12666666666667,
+    "max": 371,
+    "max_seconds": 4
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-14 10:30:00",
+    "min": 318,
+    "min_seconds": 1,
+    "mean": 338.4316666666667,
+    "max": 357,
+    "max_seconds": 7
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-14 11:00:00",
+    "min": 318,
+    "min_seconds": 5,
+    "mean": 337.52555555555557,
+    "max": 366,
+    "max_seconds": 1
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-14 11:30:00",
+    "min": 333,
+    "min_seconds": 7,
+    "mean": 352.03,
+    "max": 374,
+    "max_seconds": 2
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-14 12:00:00",
+    "min": 254,
+    "min_seconds": 4,
+    "mean": 298.3027777777778,
+    "max": 352,
+    "max_seconds": 2
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-14 12:30:00",
+    "min": 228,
+    "min_seconds": 1,
+    "mean": 248.49666666666667,
+    "max": 264,
+    "max_seconds": 15
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-14 13:00:00",
+    "min": 258,
+    "min_seconds": 1,
+    "mean": 295.40555555555557,
+    "max": 351,
+    "max_seconds": 2
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-14 13:30:00",
+    "min": 321,
+    "min_seconds": 1,
+    "mean": 341.34944444444443,
+    "max": 359,
+    "max_seconds": 3
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-14 14:00:00",
+    "min": 329,
+    "min_seconds": 6,
+    "mean": 344.16833333333335,
+    "max": 370,
+    "max_seconds": 7
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-14 14:30:00",
+    "min": 333,
+    "min_seconds": 1,
+    "mean": 363.0127777777778,
+    "max": 385,
+    "max_seconds": 5
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-14 15:00:00",
+    "min": 329,
+    "min_seconds": 9,
+    "mean": 350.37111111111113,
+    "max": 373,
+    "max_seconds": 4
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-14 15:30:00",
+    "min": 324,
+    "min_seconds": 1,
+    "mean": 350.1122222222222,
+    "max": 369,
+    "max_seconds": 3
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-14 16:00:00",
+    "min": 302,
+    "min_seconds": 5,
+    "mean": 324.355,
+    "max": 354,
+    "max_seconds": 2
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-14 16:30:00",
+    "min": 251,
+    "min_seconds": 10,
+    "mean": 290.9033333333333,
+    "max": 325,
+    "max_seconds": 2
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-14 17:00:00",
+    "min": 169,
+    "min_seconds": 15,
+    "mean": 207.33055555555555,
+    "max": 255,
+    "max_seconds": 3
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-14 17:30:00",
+    "min": 112,
+    "min_seconds": 6,
+    "mean": 145.4788888888889,
+    "max": 176,
+    "max_seconds": 4
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-14 18:00:00",
+    "min": 74,
+    "min_seconds": 9,
+    "mean": 95.21222222222222,
+    "max": 125,
+    "max_seconds": 8
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-14 18:30:00",
+    "min": 50,
+    "min_seconds": 22,
+    "mean": 63.068888888888885,
+    "max": 76,
+    "max_seconds": 25
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-14 19:00:00",
+    "min": 36,
+    "min_seconds": 2,
+    "mean": 45.37111111111111,
+    "max": 57,
+    "max_seconds": 22
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-14 19:30:00",
+    "min": 22,
+    "min_seconds": 73,
+    "mean": 29.45888888888889,
+    "max": 39,
+    "max_seconds": 37
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-14 20:00:00",
+    "min": 11,
+    "min_seconds": 10,
+    "mean": 21.321666666666665,
+    "max": 30,
+    "max_seconds": 9
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-14 20:30:00",
+    "min": 9,
+    "min_seconds": 104,
+    "mean": 14.125,
+    "max": 19,
+    "max_seconds": 21
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-14 21:00:00",
+    "min": 5,
+    "min_seconds": 249,
+    "mean": 8.276111111111112,
+    "max": 13,
+    "max_seconds": 84
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-14 21:30:00",
+    "min": 1,
+    "min_seconds": 129,
+    "mean": 5.285555555555556,
+    "max": 9,
+    "max_seconds": 191
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-14 22:00:00",
+    "min": 1,
+    "min_seconds": 389,
+    "mean": 2.68,
+    "max": 7,
+    "max_seconds": 60
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-14 22:30:00",
+    "min": 1,
+    "min_seconds": 27,
+    "mean": 2.5972222222222223,
+    "max": 4,
+    "max_seconds": 142
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-14 23:00:00",
+    "min": 0,
+    "min_seconds": 163,
+    "mean": 2.051111111111111,
+    "max": 5,
+    "max_seconds": 66
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-14 23:30:00",
+    "min": 1,
+    "min_seconds": 510,
+    "mean": 2.0233333333333334,
+    "max": 3,
+    "max_seconds": 552
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-15 00:00:00",
+    "min": 1,
+    "min_seconds": 906,
+    "mean": 1.4966666666666666,
+    "max": 2,
+    "max_seconds": 894
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-15 00:30:00",
+    "min": 1,
+    "min_seconds": 552,
+    "mean": 1.81,
+    "max": 3,
+    "max_seconds": 210
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-15 01:00:00",
+    "min": 1,
+    "min_seconds": 1345,
+    "mean": 1.2527777777777778,
+    "max": 2,
+    "max_seconds": 455
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-15 01:30:00",
+    "min": 1,
+    "min_seconds": 1800,
+    "mean": 1,
+    "max": 1,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-15 02:00:00",
+    "min": 0,
+    "min_seconds": 1127,
+    "mean": 0.3738888888888889,
+    "max": 1,
+    "max_seconds": 673
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-15 02:30:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-15 03:00:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-15 03:30:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-15 04:00:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-15 04:30:00",
+    "min": 0,
+    "min_seconds": 1146,
+    "mean": 0.36333333333333334,
+    "max": 1,
+    "max_seconds": 654
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-15 05:00:00",
+    "min": 0,
+    "min_seconds": 263,
+    "mean": 0.8538888888888889,
+    "max": 1,
+    "max_seconds": 1537
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-15 05:30:00",
+    "min": 0,
+    "min_seconds": 1051,
+    "mean": 0.42444444444444446,
+    "max": 2,
+    "max_seconds": 15
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-15 06:00:00",
+    "min": 0,
+    "min_seconds": 413,
+    "mean": 3.205,
+    "max": 6,
+    "max_seconds": 298
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-15 06:30:00",
+    "min": 4,
+    "min_seconds": 112,
+    "mean": 7.567777777777778,
+    "max": 12,
+    "max_seconds": 5
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-15 07:00:00",
+    "min": 11,
+    "min_seconds": 73,
+    "mean": 18.45388888888889,
+    "max": 26,
+    "max_seconds": 106
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-15 07:30:00",
+    "min": 24,
+    "min_seconds": 38,
+    "mean": 43.35888888888889,
+    "max": 68,
+    "max_seconds": 8
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-15 08:00:00",
+    "min": 65,
+    "min_seconds": 4,
+    "mean": 97.87944444444445,
+    "max": 139,
+    "max_seconds": 8
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-15 08:30:00",
+    "min": 135,
+    "min_seconds": 7,
+    "mean": 174.18333333333334,
+    "max": 211,
+    "max_seconds": 1
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-15 09:00:00",
+    "min": 200,
+    "min_seconds": 2,
+    "mean": 248.74333333333334,
+    "max": 278,
+    "max_seconds": 3
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-15 09:30:00",
+    "min": 257,
+    "min_seconds": 1,
+    "mean": 302.42833333333334,
+    "max": 346,
+    "max_seconds": 1
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-15 10:00:00",
+    "min": 299,
+    "min_seconds": 1,
+    "mean": 328.7077777777778,
+    "max": 349,
+    "max_seconds": 6
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-15 10:30:00",
+    "min": 315,
+    "min_seconds": 4,
+    "mean": 327.94166666666666,
+    "max": 347,
+    "max_seconds": 2
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-15 11:00:00",
+    "min": 274,
+    "min_seconds": 1,
+    "mean": 297.79777777777775,
+    "max": 324,
+    "max_seconds": 3
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-15 11:30:00",
+    "min": 285,
+    "min_seconds": 10,
+    "mean": 305.4111111111111,
+    "max": 320,
+    "max_seconds": 6
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-15 12:00:00",
+    "min": 254,
+    "min_seconds": 1,
+    "mean": 282.9766666666667,
+    "max": 324,
+    "max_seconds": 3
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-15 12:30:00",
+    "min": 248,
+    "min_seconds": 3,
+    "mean": 261.0461111111111,
+    "max": 280,
+    "max_seconds": 3
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-15 13:00:00",
+    "min": 254,
+    "min_seconds": 2,
+    "mean": 283.115,
+    "max": 314,
+    "max_seconds": 5
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-15 13:30:00",
+    "min": 281,
+    "min_seconds": 2,
+    "mean": 306.18611111111113,
+    "max": 329,
+    "max_seconds": 3
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-15 14:00:00",
+    "min": 305,
+    "min_seconds": 2,
+    "mean": 330.1616666666667,
+    "max": 349,
+    "max_seconds": 3
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-15 14:30:00",
+    "min": 328,
+    "min_seconds": 4,
+    "mean": 342.41333333333336,
+    "max": 354,
+    "max_seconds": 25
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-15 15:00:00",
+    "min": 315,
+    "min_seconds": 11,
+    "mean": 329.6333333333333,
+    "max": 347,
+    "max_seconds": 9
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-15 15:30:00",
+    "min": 322,
+    "min_seconds": 3,
+    "mean": 337.83,
+    "max": 358,
+    "max_seconds": 7
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-15 16:00:00",
+    "min": 293,
+    "min_seconds": 8,
+    "mean": 321.39166666666665,
+    "max": 337,
+    "max_seconds": 3
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-15 16:30:00",
+    "min": 256,
+    "min_seconds": 6,
+    "mean": 289.695,
+    "max": 327,
+    "max_seconds": 5
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-15 17:00:00",
+    "min": 204,
+    "min_seconds": 8,
+    "mean": 232.17111111111112,
+    "max": 266,
+    "max_seconds": 1
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-15 17:30:00",
+    "min": 124,
+    "min_seconds": 23,
+    "mean": 156.6988888888889,
+    "max": 205,
+    "max_seconds": 10
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-15 18:00:00",
+    "min": 68,
+    "min_seconds": 5,
+    "mean": 106.65944444444445,
+    "max": 131,
+    "max_seconds": 9
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-15 18:30:00",
+    "min": 57,
+    "min_seconds": 31,
+    "mean": 71.68722222222222,
+    "max": 83,
+    "max_seconds": 2
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-15 19:00:00",
+    "min": 46,
+    "min_seconds": 33,
+    "mean": 55.54222222222222,
+    "max": 67,
+    "max_seconds": 6
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-15 19:30:00",
+    "min": 33,
+    "min_seconds": 7,
+    "mean": 45.33,
+    "max": 55,
+    "max_seconds": 42
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-15 20:00:00",
+    "min": 23,
+    "min_seconds": 17,
+    "mean": 29.929444444444446,
+    "max": 40,
+    "max_seconds": 2
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-15 20:30:00",
+    "min": 19,
+    "min_seconds": 91,
+    "mean": 23.88222222222222,
+    "max": 32,
+    "max_seconds": 5
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-15 21:00:00",
+    "min": 11,
+    "min_seconds": 67,
+    "mean": 16.008333333333333,
+    "max": 20,
+    "max_seconds": 105
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-15 21:30:00",
+    "min": 5,
+    "min_seconds": 84,
+    "mean": 8.03888888888889,
+    "max": 12,
+    "max_seconds": 14
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-15 22:00:00",
+    "min": 3,
+    "min_seconds": 160,
+    "mean": 5.502222222222223,
+    "max": 8,
+    "max_seconds": 258
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-15 22:30:00",
+    "min": 2,
+    "min_seconds": 413,
+    "mean": 3.7577777777777777,
+    "max": 6,
+    "max_seconds": 180
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-15 23:00:00",
+    "min": 1,
+    "min_seconds": 235,
+    "mean": 3.76,
+    "max": 9,
+    "max_seconds": 8
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-15 23:30:00",
+    "min": 1,
+    "min_seconds": 675,
+    "mean": 1.7461111111111112,
+    "max": 4,
+    "max_seconds": 36
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-16 00:00:00",
+    "min": 1,
+    "min_seconds": 1155,
+    "mean": 1.3883333333333334,
+    "max": 3,
+    "max_seconds": 54
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-16 00:30:00",
+    "min": 0,
+    "min_seconds": 398,
+    "mean": 1.3888888888888888,
+    "max": 2,
+    "max_seconds": 1098
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-16 01:00:00",
+    "min": 0,
+    "min_seconds": 80,
+    "mean": 1.1066666666666667,
+    "max": 2,
+    "max_seconds": 272
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-16 01:30:00",
+    "min": 0,
+    "min_seconds": 646,
+    "mean": 0.6411111111111111,
+    "max": 1,
+    "max_seconds": 1154
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-16 02:00:00",
+    "min": 0,
+    "min_seconds": 1044,
+    "mean": 0.46,
+    "max": 2,
+    "max_seconds": 72
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-16 02:30:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-16 03:00:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-16 03:30:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-16 04:00:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-16 04:30:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-16 05:00:00",
+    "min": 0,
+    "min_seconds": 747,
+    "mean": 0.585,
+    "max": 1,
+    "max_seconds": 1053
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-16 05:30:00",
+    "min": 1,
+    "min_seconds": 1502,
+    "mean": 1.1655555555555555,
+    "max": 2,
+    "max_seconds": 298
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-16 06:00:00",
+    "min": 1,
+    "min_seconds": 264,
+    "mean": 3.9383333333333335,
+    "max": 6,
+    "max_seconds": 224
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-16 06:30:00",
+    "min": 5,
+    "min_seconds": 292,
+    "mean": 7.528333333333333,
+    "max": 13,
+    "max_seconds": 41
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-16 07:00:00",
+    "min": 11,
+    "min_seconds": 10,
+    "mean": 16.743333333333332,
+    "max": 23,
+    "max_seconds": 44
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-16 07:30:00",
+    "min": 21,
+    "min_seconds": 16,
+    "mean": 42.449444444444445,
+    "max": 65,
+    "max_seconds": 4
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-16 08:00:00",
+    "min": 61,
+    "min_seconds": 2,
+    "mean": 92.39,
+    "max": 128,
+    "max_seconds": 20
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-16 08:30:00",
+    "min": 123,
+    "min_seconds": 14,
+    "mean": 160.5288888888889,
+    "max": 204,
+    "max_seconds": 4
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-16 09:00:00",
+    "min": 192,
+    "min_seconds": 2,
+    "mean": 218.9427777777778,
+    "max": 262,
+    "max_seconds": 3
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-16 09:30:00",
+    "min": 252,
+    "min_seconds": 5,
+    "mean": 285.1922222222222,
+    "max": 302,
+    "max_seconds": 10
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-16 10:00:00",
+    "min": 289,
+    "min_seconds": 3,
+    "mean": 304.6011111111111,
+    "max": 326,
+    "max_seconds": 11
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-16 10:30:00",
+    "min": 289,
+    "min_seconds": 6,
+    "mean": 318.36833333333334,
+    "max": 331,
+    "max_seconds": 22
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-16 11:00:00",
+    "min": 309,
+    "min_seconds": 13,
+    "mean": 325.7422222222222,
+    "max": 347,
+    "max_seconds": 10
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-16 11:30:00",
+    "min": 304,
+    "min_seconds": 6,
+    "mean": 328.6016666666667,
+    "max": 342,
+    "max_seconds": 2
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-16 12:00:00",
+    "min": 218,
+    "min_seconds": 3,
+    "mean": 245.31833333333333,
+    "max": 304,
+    "max_seconds": 4
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-16 12:30:00",
+    "min": 231,
+    "min_seconds": 3,
+    "mean": 242.08166666666668,
+    "max": 255,
+    "max_seconds": 1
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-16 13:00:00",
+    "min": 243,
+    "min_seconds": 4,
+    "mean": 281.17,
+    "max": 306,
+    "max_seconds": 1
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-16 13:30:00",
+    "min": 292,
+    "min_seconds": 24,
+    "mean": 300.81444444444446,
+    "max": 316,
+    "max_seconds": 6
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-16 14:00:00",
+    "min": 296,
+    "min_seconds": 2,
+    "mean": 311.83666666666664,
+    "max": 334,
+    "max_seconds": 1
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-16 14:30:00",
+    "min": 302,
+    "min_seconds": 1,
+    "mean": 320.89166666666665,
+    "max": 343,
+    "max_seconds": 21
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-16 15:00:00",
+    "min": 301,
+    "min_seconds": 4,
+    "mean": 322.0911111111111,
+    "max": 340,
+    "max_seconds": 9
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-16 15:30:00",
+    "min": 313,
+    "min_seconds": 6,
+    "mean": 332.56888888888886,
+    "max": 351,
+    "max_seconds": 1
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-16 16:00:00",
+    "min": 303,
+    "min_seconds": 7,
+    "mean": 326.2133333333333,
+    "max": 348,
+    "max_seconds": 5
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-16 16:30:00",
+    "min": 249,
+    "min_seconds": 18,
+    "mean": 285.36277777777775,
+    "max": 320,
+    "max_seconds": 5
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-16 17:00:00",
+    "min": 185,
+    "min_seconds": 1,
+    "mean": 212.43944444444443,
+    "max": 255,
+    "max_seconds": 2
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-16 17:30:00",
+    "min": 114,
+    "min_seconds": 2,
+    "mean": 140.94055555555556,
+    "max": 189,
+    "max_seconds": 4
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-16 18:00:00",
+    "min": 67,
+    "min_seconds": 15,
+    "mean": 93.085,
+    "max": 124,
+    "max_seconds": 7
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-16 18:30:00",
+    "min": 47,
+    "min_seconds": 13,
+    "mean": 58.407222222222224,
+    "max": 70,
+    "max_seconds": 37
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-16 19:00:00",
+    "min": 38,
+    "min_seconds": 73,
+    "mean": 45.565,
+    "max": 60,
+    "max_seconds": 1
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-16 19:30:00",
+    "min": 30,
+    "min_seconds": 37,
+    "mean": 40.71222222222222,
+    "max": 48,
+    "max_seconds": 4
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-16 20:00:00",
+    "min": 17,
+    "min_seconds": 14,
+    "mean": 28.233888888888888,
+    "max": 35,
+    "max_seconds": 60
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-16 20:30:00",
+    "min": 8,
+    "min_seconds": 90,
+    "mean": 17.188333333333333,
+    "max": 25,
+    "max_seconds": 2
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-16 21:00:00",
+    "min": 6,
+    "min_seconds": 261,
+    "mean": 7.870555555555556,
+    "max": 14,
+    "max_seconds": 6
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-16 21:30:00",
+    "min": 6,
+    "min_seconds": 78,
+    "mean": 8.045555555555556,
+    "max": 13,
+    "max_seconds": 15
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-16 22:00:00",
+    "min": 2,
+    "min_seconds": 50,
+    "mean": 5.056111111111111,
+    "max": 8,
+    "max_seconds": 1
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-16 22:30:00",
+    "min": 1,
+    "min_seconds": 1154,
+    "mean": 1.3588888888888888,
+    "max": 2,
+    "max_seconds": 646
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-16 23:00:00",
+    "min": 1,
+    "min_seconds": 1087,
+    "mean": 1.5,
+    "max": 4,
+    "max_seconds": 50
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-16 23:30:00",
+    "min": 0,
+    "min_seconds": 1075,
+    "mean": 0.4033333333333333,
+    "max": 2,
+    "max_seconds": 1
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-17 00:00:00",
+    "min": 0,
+    "min_seconds": 11,
+    "mean": 0.9938888888888889,
+    "max": 1,
+    "max_seconds": 1789
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-17 00:30:00",
+    "min": 1,
+    "min_seconds": 1800,
+    "mean": 1,
+    "max": 1,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-17 01:00:00",
+    "min": 0,
+    "min_seconds": 1654,
+    "mean": 0.0811111111111111,
+    "max": 1,
+    "max_seconds": 146
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-17 01:30:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-17 02:00:00",
+    "min": 0,
+    "min_seconds": 1769,
+    "mean": 0.017222222222222222,
+    "max": 1,
+    "max_seconds": 31
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-17 02:30:00",
+    "min": 1,
+    "min_seconds": 1800,
+    "mean": 1,
+    "max": 1,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-17 03:00:00",
+    "min": 1,
+    "min_seconds": 1800,
+    "mean": 1,
+    "max": 1,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-17 03:30:00",
+    "min": 1,
+    "min_seconds": 1800,
+    "mean": 1,
+    "max": 1,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-17 04:00:00",
+    "min": 1,
+    "min_seconds": 1800,
+    "mean": 1,
+    "max": 1,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-17 04:30:00",
+    "min": 0,
+    "min_seconds": 1385,
+    "mean": 0.23055555555555557,
+    "max": 1,
+    "max_seconds": 415
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-17 05:00:00",
+    "min": 0,
+    "min_seconds": 106,
+    "mean": 1.0638888888888889,
+    "max": 2,
+    "max_seconds": 221
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-17 05:30:00",
+    "min": 1,
+    "min_seconds": 573,
+    "mean": 1.9466666666666668,
+    "max": 3,
+    "max_seconds": 477
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-17 06:00:00",
+    "min": 3,
+    "min_seconds": 680,
+    "mean": 3.8405555555555555,
+    "max": 6,
+    "max_seconds": 70
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-17 06:30:00",
+    "min": 2,
+    "min_seconds": 80,
+    "mean": 5.765555555555555,
+    "max": 12,
+    "max_seconds": 45
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-17 07:00:00",
+    "min": 6,
+    "min_seconds": 15,
+    "mean": 14.357222222222223,
+    "max": 28,
+    "max_seconds": 18
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-17 07:30:00",
+    "min": 26,
+    "min_seconds": 11,
+    "mean": 52.65611111111111,
+    "max": 81,
+    "max_seconds": 9
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-17 08:00:00",
+    "min": 73,
+    "min_seconds": 8,
+    "mean": 96.98722222222223,
+    "max": 130,
+    "max_seconds": 2
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-17 08:30:00",
+    "min": 126,
+    "min_seconds": 4,
+    "mean": 188.88777777777779,
+    "max": 240,
+    "max_seconds": 9
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-17 09:00:00",
+    "min": 235,
+    "min_seconds": 2,
+    "mean": 265.76,
+    "max": 286,
+    "max_seconds": 1
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-17 09:30:00",
+    "min": 269,
+    "min_seconds": 7,
+    "mean": 303.7011111111111,
+    "max": 329,
+    "max_seconds": 4
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-17 10:00:00",
+    "min": 306,
+    "min_seconds": 5,
+    "mean": 327.9605555555556,
+    "max": 347,
+    "max_seconds": 2
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-17 10:30:00",
+    "min": 328,
+    "min_seconds": 10,
+    "mean": 341.3355555555556,
+    "max": 356,
+    "max_seconds": 1
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-17 11:00:00",
+    "min": 317,
+    "min_seconds": 1,
+    "mean": 337.64222222222224,
+    "max": 355,
+    "max_seconds": 1
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-17 11:30:00",
+    "min": 274,
+    "min_seconds": 7,
+    "mean": 313.7894444444444,
+    "max": 335,
+    "max_seconds": 14
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-17 12:00:00",
+    "min": 270,
+    "min_seconds": 4,
+    "mean": 292.61055555555555,
+    "max": 306,
+    "max_seconds": 3
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-17 12:30:00",
+    "min": 285,
+    "min_seconds": 1,
+    "mean": 302.0316666666667,
+    "max": 319,
+    "max_seconds": 1
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-17 13:00:00",
+    "min": 305,
+    "min_seconds": 16,
+    "mean": 331.4716666666667,
+    "max": 358,
+    "max_seconds": 3
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-17 13:30:00",
+    "min": 322,
+    "min_seconds": 3,
+    "mean": 336.18333333333334,
+    "max": 353,
+    "max_seconds": 3
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-17 14:00:00",
+    "min": 234,
+    "min_seconds": 14,
+    "mean": 299.3022222222222,
+    "max": 356,
+    "max_seconds": 5
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-17 14:30:00",
+    "min": 251,
+    "min_seconds": 1,
+    "mean": 295.9788888888889,
+    "max": 316,
+    "max_seconds": 13
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-17 15:00:00",
+    "min": 296,
+    "min_seconds": 1,
+    "mean": 333.3255555555556,
+    "max": 359,
+    "max_seconds": 2
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-17 15:30:00",
+    "min": 311,
+    "min_seconds": 3,
+    "mean": 333.535,
+    "max": 350,
+    "max_seconds": 22
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-17 16:00:00",
+    "min": 303,
+    "min_seconds": 2,
+    "mean": 318.96555555555557,
+    "max": 339,
+    "max_seconds": 3
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-17 16:30:00",
+    "min": 247,
+    "min_seconds": 1,
+    "mean": 275.28222222222223,
+    "max": 310,
+    "max_seconds": 12
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-17 17:00:00",
+    "min": 177,
+    "min_seconds": 9,
+    "mean": 207.07666666666665,
+    "max": 265,
+    "max_seconds": 15
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-17 17:30:00",
+    "min": 126,
+    "min_seconds": 15,
+    "mean": 149.01611111111112,
+    "max": 185,
+    "max_seconds": 10
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-17 18:00:00",
+    "min": 86,
+    "min_seconds": 7,
+    "mean": 107.49,
+    "max": 132,
+    "max_seconds": 2
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-17 18:30:00",
+    "min": 50,
+    "min_seconds": 43,
+    "mean": 61.970555555555556,
+    "max": 86,
+    "max_seconds": 18
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-17 19:00:00",
+    "min": 41,
+    "min_seconds": 9,
+    "mean": 49.21888888888889,
+    "max": 60,
+    "max_seconds": 16
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-17 19:30:00",
+    "min": 33,
+    "min_seconds": 4,
+    "mean": 39.04666666666667,
+    "max": 46,
+    "max_seconds": 6
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-17 20:00:00",
+    "min": 26,
+    "min_seconds": 88,
+    "mean": 29.767222222222223,
+    "max": 39,
+    "max_seconds": 17
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-17 20:30:00",
+    "min": 14,
+    "min_seconds": 34,
+    "mean": 20.251666666666665,
+    "max": 28,
+    "max_seconds": 28
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-17 21:00:00",
+    "min": 5,
+    "min_seconds": 17,
+    "mean": 9.31,
+    "max": 15,
+    "max_seconds": 8
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-17 21:30:00",
+    "min": 6,
+    "min_seconds": 61,
+    "mean": 11.232777777777779,
+    "max": 15,
+    "max_seconds": 33
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-17 22:00:00",
+    "min": 0,
+    "min_seconds": 33,
+    "mean": 4.522222222222222,
+    "max": 10,
+    "max_seconds": 106
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-17 22:30:00",
+    "min": 2,
+    "min_seconds": 364,
+    "mean": 3.7016666666666667,
+    "max": 6,
+    "max_seconds": 14
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-17 23:00:00",
+    "min": 0,
+    "min_seconds": 89,
+    "mean": 1.735,
+    "max": 3,
+    "max_seconds": 489
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-17 23:30:00",
+    "min": 1,
+    "min_seconds": 295,
+    "mean": 2.3016666666666667,
+    "max": 4,
+    "max_seconds": 250
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-18 00:00:00",
+    "min": 1,
+    "min_seconds": 1791,
+    "mean": 1.005,
+    "max": 2,
+    "max_seconds": 9
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-18 00:30:00",
+    "min": 1,
+    "min_seconds": 1800,
+    "mean": 1,
+    "max": 1,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-18 01:00:00",
+    "min": 1,
+    "min_seconds": 1800,
+    "mean": 1,
+    "max": 1,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-18 01:30:00",
+    "min": 1,
+    "min_seconds": 1800,
+    "mean": 1,
+    "max": 1,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-18 02:00:00",
+    "min": 0,
+    "min_seconds": 814,
+    "mean": 0.5477777777777778,
+    "max": 1,
+    "max_seconds": 986
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-18 02:30:00",
+    "min": 0,
+    "min_seconds": 509,
+    "mean": 0.7172222222222222,
+    "max": 1,
+    "max_seconds": 1291
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-18 03:00:00",
+    "min": 1,
+    "min_seconds": 1800,
+    "mean": 1,
+    "max": 1,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-18 03:30:00",
+    "min": 0,
+    "min_seconds": 363,
+    "mean": 0.7983333333333333,
+    "max": 1,
+    "max_seconds": 1437
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-18 04:00:00",
+    "min": 1,
+    "min_seconds": 1800,
+    "mean": 1,
+    "max": 1,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-18 04:30:00",
+    "min": 0,
+    "min_seconds": 113,
+    "mean": 0.9372222222222222,
+    "max": 1,
+    "max_seconds": 1687
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-18 05:00:00",
+    "min": 0,
+    "min_seconds": 218,
+    "mean": 1.6622222222222223,
+    "max": 3,
+    "max_seconds": 297
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-18 05:30:00",
+    "min": 1,
+    "min_seconds": 771,
+    "mean": 1.5716666666666668,
+    "max": 2,
+    "max_seconds": 1029
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-18 06:00:00",
+    "min": 1,
+    "min_seconds": 297,
+    "mean": 3.2844444444444445,
+    "max": 6,
+    "max_seconds": 142
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-18 06:30:00",
+    "min": 3,
+    "min_seconds": 326,
+    "mean": 5.235,
+    "max": 8,
+    "max_seconds": 199
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-18 07:00:00",
+    "min": 5,
+    "min_seconds": 38,
+    "mean": 13.505,
+    "max": 25,
+    "max_seconds": 1
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-18 07:30:00",
+    "min": 19,
+    "min_seconds": 74,
+    "mean": 38.35166666666667,
+    "max": 60,
+    "max_seconds": 7
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-18 08:00:00",
+    "min": 55,
+    "min_seconds": 26,
+    "mean": 83.43666666666667,
+    "max": 114,
+    "max_seconds": 6
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-18 08:30:00",
+    "min": 106,
+    "min_seconds": 5,
+    "mean": 149.99277777777777,
+    "max": 189,
+    "max_seconds": 1
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-18 09:00:00",
+    "min": 180,
+    "min_seconds": 6,
+    "mean": 217.8661111111111,
+    "max": 258,
+    "max_seconds": 4
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-18 09:30:00",
+    "min": 247,
+    "min_seconds": 1,
+    "mean": 269.845,
+    "max": 294,
+    "max_seconds": 2
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-18 10:00:00",
+    "min": 267,
+    "min_seconds": 7,
+    "mean": 284.9533333333333,
+    "max": 301,
+    "max_seconds": 19
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-18 10:30:00",
+    "min": 288,
+    "min_seconds": 8,
+    "mean": 298.6961111111111,
+    "max": 312,
+    "max_seconds": 9
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-18 11:00:00",
+    "min": 275,
+    "min_seconds": 15,
+    "mean": 300.9411111111111,
+    "max": 319,
+    "max_seconds": 3
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-18 11:30:00",
+    "min": 269,
+    "min_seconds": 3,
+    "mean": 307.5661111111111,
+    "max": 336,
+    "max_seconds": 4
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-18 12:00:00",
+    "min": 193,
+    "min_seconds": 6,
+    "mean": 228.39444444444445,
+    "max": 277,
+    "max_seconds": 12
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-18 12:30:00",
+    "min": 191,
+    "min_seconds": 1,
+    "mean": 207.85111111111112,
+    "max": 224,
+    "max_seconds": 6
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-18 13:00:00",
+    "min": 195,
+    "min_seconds": 3,
+    "mean": 224.87722222222223,
+    "max": 247,
+    "max_seconds": 4
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-18 13:30:00",
+    "min": 235,
+    "min_seconds": 3,
+    "mean": 258.35055555555556,
+    "max": 275,
+    "max_seconds": 1
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-18 14:00:00",
+    "min": 252,
+    "min_seconds": 3,
+    "mean": 282.075,
+    "max": 303,
+    "max_seconds": 4
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-18 14:30:00",
+    "min": 251,
+    "min_seconds": 2,
+    "mean": 268.14666666666665,
+    "max": 297,
+    "max_seconds": 6
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-18 15:00:00",
+    "min": 231,
+    "min_seconds": 4,
+    "mean": 253.04055555555556,
+    "max": 266,
+    "max_seconds": 1
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-18 15:30:00",
+    "min": 231,
+    "min_seconds": 1,
+    "mean": 265.30333333333334,
+    "max": 287,
+    "max_seconds": 11
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-18 16:00:00",
+    "min": 170,
+    "min_seconds": 4,
+    "mean": 212.67,
+    "max": 237,
+    "max_seconds": 7
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-18 16:30:00",
+    "min": 164,
+    "min_seconds": 2,
+    "mean": 177.59277777777777,
+    "max": 189,
+    "max_seconds": 3
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-18 17:00:00",
+    "min": 118,
+    "min_seconds": 7,
+    "mean": 146.73888888888888,
+    "max": 172,
+    "max_seconds": 11
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-18 17:30:00",
+    "min": 95,
+    "min_seconds": 7,
+    "mean": 134.0311111111111,
+    "max": 170,
+    "max_seconds": 8
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-18 18:00:00",
+    "min": 57,
+    "min_seconds": 15,
+    "mean": 89.98833333333333,
+    "max": 133,
+    "max_seconds": 16
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-18 18:30:00",
+    "min": 26,
+    "min_seconds": 4,
+    "mean": 42.39944444444444,
+    "max": 57,
+    "max_seconds": 18
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-18 19:00:00",
+    "min": 12,
+    "min_seconds": 31,
+    "mean": 23.58,
+    "max": 34,
+    "max_seconds": 26
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-18 19:30:00",
+    "min": 4,
+    "min_seconds": 35,
+    "mean": 10.408333333333333,
+    "max": 17,
+    "max_seconds": 208
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-18 20:00:00",
+    "min": 3,
+    "min_seconds": 497,
+    "mean": 4.498888888888889,
+    "max": 7,
+    "max_seconds": 106
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-18 20:30:00",
+    "min": 1,
+    "min_seconds": 143,
+    "mean": 2.365,
+    "max": 4,
+    "max_seconds": 193
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-18 21:00:00",
+    "min": 0,
+    "min_seconds": 628,
+    "mean": 0.8861111111111111,
+    "max": 2,
+    "max_seconds": 423
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-18 21:30:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-18 22:00:00",
+    "min": 0,
+    "min_seconds": 1542,
+    "mean": 0.14333333333333334,
+    "max": 1,
+    "max_seconds": 258
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-18 22:30:00",
+    "min": 0,
+    "min_seconds": 1581,
+    "mean": 0.12166666666666667,
+    "max": 1,
+    "max_seconds": 219
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-18 23:00:00",
+    "min": 0,
+    "min_seconds": 1800,
+    "mean": 0,
+    "max": 0,
+    "max_seconds": 1800
+  },
+  {
+    "name": "all",
+    "interval_start": "2016-11-18 23:30:00",
+    "min": 0,
+    "min_seconds": 1688,
+    "mean": 0.06222222222222222,
+    "max": 1,
+    "max_seconds": 112
+  }
+]

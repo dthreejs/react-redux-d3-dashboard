@@ -1,0 +1,222 @@
+@import vars
+
+// Space Type
+.space-type
+	.title
+		font-size: 20px
+		font-weight: bold
+		span
+			padding-right: 10px
+	.tabs
+		margin-top: -14px
+		.mui-tabs__bar
+			text-align: right
+			li
+				margin: 0 10px
+				a
+					padding: 0
+					font-size: 18px;
+					font-weight: bold
+					text-transform: capitalize
+	.content
+		padding-top: 20px
+		.space-table
+			.table-header
+				padding: 10px 0
+				font-size: 16px
+				font-weight: bold
+				color: gray
+				span
+					&:first-child
+						margin-left: 10px
+			.table-body
+				padding: 10px 0
+				height: 300px
+				svg
+					width: 100%
+					height: 100%
+					.background
+						rect:nth-child(even)
+							fill: #fff
+						rect:nth-child(odd)
+							fill: #eee
+					.col-name
+						text
+							fill: gray
+					.col-progress
+						.progress-max-bar
+							fill: #78E2FA
+						.progress-bar
+							fill: #3CB0D2
+						.progress-value
+							fill: white
+							text-anchor: end
+			.table-footer
+				padding: 10px 0
+				.table-legend
+					float: right
+					color: gray
+					margin-right: 20px
+					.avg-percent-legend-color
+						float: left
+						width: 18px
+						height: 18px
+						background-color: #3CB0D2
+					.avg-percent-legend-name
+						float: left
+						margin-left: 10px
+					.peak-percent-legend-color
+						float: left
+						margin-left: 20px
+						width: 18px
+						height: 18px
+						background-color: #78E2FA
+					.peak-percent-legend-name
+						margin-left: 10px
+						float: left
+				.table-pagination
+					.page-before
+						margin-left: 20px
+						cursor: pointer
+					.page-start
+						margin-left: 20px
+						display: inline
+					.page-end
+						margin-right: 10px
+						display: inline
+					.page-total
+						margin-left: 10px
+						display: inline
+					.page-after
+						margin-left: 20px
+						cursor: pointe
+		.space-summary
+			#space-percent-circle
+				text-align: center
+				padding-top: 20px
+				svg
+					margin-right: 20px
+					.avg-circle
+						.background
+							fill: #eee
+						.foreground-blur
+							fill: #3CB0D2
+							fill-opacity: 1
+							stroke: #3CB0D2
+							stroke-width: 5
+							stroke-opacity: 1
+							filter: url(#blur)
+						.foreground
+							fill: #3CB0D2
+							fill-opacity: 1
+						.big-number
+							fill: #333
+							text-anchor: middle
+							font-size: 40px
+							font-weight: bold
+						.description1
+							fill: #333
+							text-anchor: middle
+							font-size: 14px
+						.description2
+							fill: #333
+							text-anchor: middle
+							font-size: 14px
+					.peak-circle
+						.background
+							fill: #eee
+						.foreground-blur
+							fill: #78E2FA
+							fill-opacity: 1
+							stroke: #78E2FA
+							stroke-width: 5
+							stroke-opacity: 1
+							filter: url(#blur)
+						.foreground
+							fill: #78E2FA
+							fill-opacity: 1
+						.big-number
+							fill: #333
+							text-anchor: middle
+							font-size: 40px
+							font-weight: bold
+						.description1
+							fill: #333
+							text-anchor: middle
+							font-size: 14px
+						.description2
+							fill: #333
+							text-anchor: middle
+							font-size: 14px
+			#space-percent-bar
+				.axis--x
+					font-size: 12px
+					.tick:nth-child(1)
+						text-anchor: start
+					.tick:nth-child(7)
+						text-anchor: end
+				.percentage-bars
+					fill: #3CB0D2
+				.bottom-label
+					font-size: 14px
+					text-anchor: middle
+.floorplan
+	.header
+		#color-legend
+			float: right
+			width: 350px
+			height: 60px
+			svg
+				width: 100%
+				height: 100%
+				.axis--x
+					text
+						font-size: 14px
+				.color-rect
+					rect.color-lv1
+						fill: #FFFEB6
+						stroke: none
+					rect.color-lv2
+						fill: #FDCB65
+						stroke: none
+					rect.color-lv3
+						fill: #FB8D46
+						stroke: none
+					rect.color-lv4
+						fill: #ED3D2C
+						stroke: none
+					rect.color-lv5
+						fill: #BB082B
+						stroke: none
+	.content
+		#floorplan-heatmap
+			svg
+				.overlay
+					fill: #eee
+				.overlay:hover
+					cursor: move
+				g
+					pointer-events: none
+					path.map-object
+						fill: #fff
+						stroke: none
+						display: none
+					path.wall
+						display: block
+						fill: #444
+					path.furnishing
+						display: none
+					path.room
+						display: block
+					path.room.color-lv0
+						fill: #FFFFFF
+					path.room.color-lv1
+						fill: #FFFEB6
+					path.room.color-lv2
+						fill: #FDCB65
+					path.room.color-lv3
+						fill: #FB8D46
+					path.room.color-lv4
+						fill: #ED3D2C
+					path.room.color-lv5
+						fill: #BB082B

@@ -1,0 +1,83 @@
+.space-average-module {
+  padding: 15px;
+  border: 1px solid #e7e7e7;
+
+  .content-container {
+    display: flex;
+    position: relative;
+    margin: 20px 0;
+  }
+
+  .chart-section {
+    flex: 1;
+    margin-right: 20px;
+
+    .chart-container {
+
+      .space-tooltip {
+        position: absolute;
+        background-color: rgba(0, 0, 0, 0.8);
+        color: white;
+        transform: translate(-50%, calc(-100% - 20px));
+
+        .tooltip-container { position: relative; padding: 10px; }
+
+        .tooltip-title { font-weight: bolder;; }
+        .chevron-arrow {
+          position: absolute;
+          top: calc(100% - 1px);
+          left: calc(50% - 10px);
+          width: 0;
+          height: 0;
+          border-width: 10px 10px 0 10px;
+          border-color: rgba(0, 0, 0, 0.8) transparent transparent transparent;
+          border-style: solid;
+          z-index: 100;
+        }
+      }
+    }
+
+    .graph-types {
+      display: flex;
+      justify-content: center;
+
+      .type-label {
+        cursor: pointer;
+        color: black;
+        padding: 0 10px;
+
+        &.active { font-weight: bold; border-bottom: 2px solid black }
+        &:not(:last-child) { margin-right: 25px; }
+      }
+    }
+  }
+
+  .filters-section {
+    min-width: 200px;
+    display: flex;
+    flex-direction: column;
+
+    .react-selectize.root-node { width: 100%; }
+
+    .tag-buttons {
+      padding: 20px 0;
+      flex: 1;
+      width: 100%;
+
+      .tag-button:not(:last-child) { margin-bottom: 5px; }
+    }
+
+    .category-buttons {
+      margin-bottom: 40px;
+
+      .category-filter {
+        display: flex;
+        align-items: center;
+        cursor: pointer;
+
+        p.label { flex: 1; margin: 0 0 0 5px; }
+        &:not(:last-child) { margin-bottom: 5px; }
+      }
+    }
+  }
+}

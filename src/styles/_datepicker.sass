@@ -1,0 +1,221 @@
+@import vars
+
+.active_range
+  content: ''
+  position: absolute
+  z-index: -1
+  width: 100%
+  height: 100%
+  background-color: $dark-lime-green
+  border-radius: 50%
+  top: 0
+  left: 0
+  right: 0
+  margin: auto
+  bottom: 0
+  padding: 0
+
+
+.react-datepicker
+  max-width: 320px
+  border: 0
+  .react-datepicker__navigation
+    top: 0
+    border-width: 0.6rem
+  .react-datepicker__navigation--previous
+    border-right-color: #666
+  .react-datepicker__navigation--next
+    border-left-color: #666
+
+
+  .react-datepicker__header
+    background-color: initial
+    padding: 0 0 5px
+    border-color: rgba(0, 0, 0, 0.12)
+
+  .react-datepicker__month-container
+    float: initial
+
+  .react-datepicker__month,
+  .react-datepicker__names
+    font-size: 12px
+
+  .react-datepicker__day-name,
+  .react-datepicker__day
+    //width: 12%
+    padding: 10px
+    //width: 1rem
+    position: relative
+    width: 4%
+    font-size: 12px
+    font-weight: normal
+    line-height: 1
+    letter-spacing: -0.3px
+    text-align: center
+    color: #6c6f70
+    &:hover, &:active, &:focus
+      border-radius: 50%
+
+  .react-datepicker__day-name
+    padding-bottom: 0
+    text-transform: uppercase
+
+  .react-datepicker__day--in-range
+    background-color: transparent
+    border-radius: 0
+    position: relative
+    z-index: 0
+    &::after
+      content: ''
+      background-color: $light-sage
+      width: 150%
+      height: 100%
+      z-index: -2
+      position: absolute
+      top: 0
+      left: 0
+      right: 0
+      margin: auto
+      bottom: 0
+
+  .react-datepicker__day--highlighted
+    background-color: #798167
+    &:hover, &:active, &:focus
+      border-radius: 0
+
+  .react-datepicker__day--selected
+    background-color: transparent
+  .react-datepicker__day--range-start,
+  .react-datepicker__day--range-end
+    background-color: transparent
+    color: $white-default
+    &::before
+      @extend .active_range
+
+  .react-datepicker__day--range-start
+    &::after
+      width: 100%
+      right: -100%
+
+  .react-datepicker__day--range-end
+    &::after
+      width: 50%
+      left: -50%
+
+  .react-datepicker__current-month
+    padding-bottom: 10px
+    font-size: 14px
+    font-weight: bold
+    text-align: center
+    color: #333333
+
+  .react-datepicker__week
+    padding: 5px 0
+
+  .react-datepicker__day--outside-month
+    opacity: 0.5
+
+.datepicker-exclude
+  input[type="checkbox"],
+  .mui-checkbox
+    //appearance: none
+    margin: 50px 10px 10px 0
+
+  //input[type="checkbox"] + label
+  //  &:before
+  //    display: inline-block
+  //    content: "\f046"
+  label
+    display: inline-block
+    cursor: pointer
+    position: relative
+    padding: 0 !important
+
+  input[type=checkbox]
+    display: none
+
+  input[type=checkbox] + label:before
+    content: ''
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, .2)
+    font-size: 15px
+    color: #f3f3f3
+    text-align: center
+    line-height: 15px
+    border-radius: 50%
+    border: solid 1px rgba(0, 0, 0, 0.12)
+    margin-right: 5px
+    padding: 0 9px
+    vertical-align: middle
+    background-color: transparent
+
+  input[type=checkbox]:checked + label:before
+    content: ''
+    background: $dark-lime-green url(./../assets/images/icon_check.png)no-repeat center center
+    background-size: 12px
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, .2)
+    font-size: 15px
+    color: #f3f3f3
+    text-align: center
+    line-height: 15px
+    border-radius: 50%
+    border: solid 1px $dark-lime-green
+    //border: solid 1px rgba(0, 0, 0, 0.12)
+    margin-right: 5px
+    padding: 0 9px
+    vertical-align: middle
+
+  p, ul
+    font-size: 14px
+    font-weight: 300
+    letter-spacing: normal
+    color: #6c6f70
+  .datepicker-exclude-extra
+    padding-left: 25px
+
+.excluding
+  .react-datepicker
+    .react-datepicker__day
+      &:hover, &:active, &:focus
+        //background-color: rgba(0, 0, 0, 0.45)
+        &::before
+          content: 'Invalid'
+          position: absolute
+          box-shadow: 0 4px 15px -2px rgba(0, 0, 0, 0.3)
+          top: -40px
+          left: -25px
+          padding: 9px 6px
+          border-radius: 3px
+          font-size: 12px
+          text-align: center
+          color: #6c6f70
+          width: 68px
+          background-color: $white-two
+          //background: $white-two url(./../assets/images/icon_pointer_down.png) no-repeat
+          //background-position: center bottom
+
+    .react-datepicker__day--in-range
+      &:hover, &:active, &:focus
+        &::before
+          content: ''
+          box-shadow: none
+          background-color: transparent
+
+    .react-datepicker__day--range-start,
+    .react-datepicker__day--range-end
+      &:hover, &:active, &:focus
+        //background-color: $dark-lime-green
+        &::before
+          content: ''
+          position: absolute
+          z-index: -1
+          width: 100%
+          height: 100%
+          background-color: $dark-lime-green
+          border-radius: 50%
+          top: 0
+          left: 0
+          right: 0
+          margin: auto
+          bottom: 0
+          padding: 0
+
